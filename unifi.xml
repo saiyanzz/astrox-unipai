@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Unifi Quickplay Hacker">
-  <channel id="fifa1.unifi">
-    <display-name>Unifi FIFA World Cup 2026™ 1</display-name>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9E7BD4A4-E920-4556-9C44-0A243C5024C7/0-16x9.png?width=500"/>
-  </channel>
-  <channel id="fifa2.unifi">
-    <display-name>Unifi FIFA World Cup 2026™ 2</display-name>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/05793DF0-B2E9-4447-B7C6-DE8ADCB5EA24/0-16x9.png?width=500"/>
-  </channel>
-  <channel id="fifa3.unifi">
-    <display-name>Unifi FIFA World Cup 2026™ 3</display-name>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6F6D4C8B-DE5E-41AF-BCA9-3EF630205F40/0-16x9.png?width=500"/>
-  </channel>
   <channel id="spotv.unifi">
     <display-name>SPOTV</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/75E45C13-621B-44EB-86F1-35C8C3DCB7E1/0-16x9.png?width=500"/>
@@ -288,191 +276,6 @@
     <display-name>Unifi Sports 1</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/28EEC6E6-98AD-44E7-8CF3-101111099742/0-16x9.png?width=500"/>
   </channel>
-  <programme start="20260731053000 +0800" stop="20260731090000 +0800" channel="fifa1.unifi">
-    <title lang="ms">(R) France vs Spain : FIFA World Cup™ 2026 Semi-Finals (BM Grandstand)</title>
-    <desc lang="ms">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9E7BD4A4-E920-4556-9C44-0A243C5024C7/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731090000 +0800" stop="20260731093000 +0800" channel="fifa1.unifi">
-    <title lang="ms">EP 3 - Vancouver : FIFA World Cup™ 26: Stories From the Cities</title>
-    <desc lang="ms">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9E7BD4A4-E920-4556-9C44-0A243C5024C7/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731093000 +0800" stop="20260731100000 +0800" channel="fifa1.unifi">
-    <title lang="ms">EP 4 - Boston : FIFA World Cup™ 26: Stories From the Cities</title>
-    <desc lang="ms">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9E7BD4A4-E920-4556-9C44-0A243C5024C7/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731100000 +0800" stop="20260731140000 +0800" channel="fifa1.unifi">
-    <title lang="ms">(R) England vs Argentina: FIFA World Cup™ 2026 Semi-Finals (BM Grandstand)</title>
-    <desc lang="ms">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9E7BD4A4-E920-4556-9C44-0A243C5024C7/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731140000 +0800" stop="20260731143000 +0800" channel="fifa1.unifi">
-    <title lang="ms">EP 5 - Seatle : FIFA World Cup™ 26: Stories From the Cities</title>
-    <desc lang="ms">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9E7BD4A4-E920-4556-9C44-0A243C5024C7/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731143000 +0800" stop="20260731150000 +0800" channel="fifa1.unifi">
-    <title lang="ms">EP 6 - Los Angeles : FIFA World Cup™ 26: Stories From the Cities</title>
-    <desc lang="ms">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9E7BD4A4-E920-4556-9C44-0A243C5024C7/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731150000 +0800" stop="20260731153000 +0800" channel="fifa1.unifi">
-    <title lang="ms">EP 7 -Kansas City : FIFA World Cup™ 26: Stories From the Cities</title>
-    <desc lang="ms">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9E7BD4A4-E920-4556-9C44-0A243C5024C7/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731153000 +0800" stop="20260731160000 +0800" channel="fifa1.unifi">
-    <title lang="ms">EP 8 -Philadelphia : FIFA World Cup™ 26: Stories From the Cities</title>
-    <desc lang="ms">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9E7BD4A4-E920-4556-9C44-0A243C5024C7/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731160000 +0800" stop="20260731220000 +0800" channel="fifa1.unifi">
-    <title lang="ms">(R) Spain vs Argentina: FIFA World Cup™ 2026 Final (BM Grandstand)</title>
-    <desc lang="ms">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9E7BD4A4-E920-4556-9C44-0A243C5024C7/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731220000 +0800" stop="20260731223000 +0800" channel="fifa1.unifi">
-    <title lang="ms">EP 5 - Seatle : FIFA World Cup™ 26: Stories From the Cities</title>
-    <desc lang="ms">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9E7BD4A4-E920-4556-9C44-0A243C5024C7/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731223000 +0800" stop="20260731230000 +0800" channel="fifa1.unifi">
-    <title lang="ms">EP 6 - Los Angeles : FIFA World Cup™ 26: Stories From the Cities</title>
-    <desc lang="ms">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9E7BD4A4-E920-4556-9C44-0A243C5024C7/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731230000 +0800" stop="20260731233000 +0800" channel="fifa1.unifi">
-    <title lang="ms">EP 7 -Kansas City : FIFA World Cup™ 26: Stories From the Cities</title>
-    <desc lang="ms">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9E7BD4A4-E920-4556-9C44-0A243C5024C7/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731233000 +0800" stop="20260801000000 +0800" channel="fifa1.unifi">
-    <title lang="ms">EP 8 -Philadelphia : FIFA World Cup™ 26: Stories From the Cities</title>
-    <desc lang="ms">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9E7BD4A4-E920-4556-9C44-0A243C5024C7/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731050000 +0800" stop="20260731083000 +0800" channel="fifa2.unifi">
-    <title lang="ms">(R) France vs Spain : FIFA World Cup™ 2026 Semi-Finals (BI Grandstand)</title>
-    <desc lang="ms">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/05793DF0-B2E9-4447-B7C6-DE8ADCB5EA24/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731083000 +0800" stop="20260731090000 +0800" channel="fifa2.unifi">
-    <title lang="ms">EP 9 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="ms">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/05793DF0-B2E9-4447-B7C6-DE8ADCB5EA24/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731090000 +0800" stop="20260731093000 +0800" channel="fifa2.unifi">
-    <title lang="ms">EP 10 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="ms">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/05793DF0-B2E9-4447-B7C6-DE8ADCB5EA24/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731093000 +0800" stop="20260731130000 +0800" channel="fifa2.unifi">
-    <title lang="ms">(R) Spain vs Belgium : FIFA World Cup™ 2026 Quarter-Final (BI Grandstand)</title>
-    <desc lang="ms">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/05793DF0-B2E9-4447-B7C6-DE8ADCB5EA24/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731130000 +0800" stop="20260731133000 +0800" channel="fifa2.unifi">
-    <title lang="ms">EP 11 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="ms">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/05793DF0-B2E9-4447-B7C6-DE8ADCB5EA24/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731133000 +0800" stop="20260731140000 +0800" channel="fifa2.unifi">
-    <title lang="ms">EP 12 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="ms">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/05793DF0-B2E9-4447-B7C6-DE8ADCB5EA24/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731140000 +0800" stop="20260731180000 +0800" channel="fifa2.unifi">
-    <title lang="ms">(R) France vs England: FIFA World Cup™ 2026 Third Place (BI Grandstand)</title>
-    <desc lang="ms">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/05793DF0-B2E9-4447-B7C6-DE8ADCB5EA24/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731180000 +0800" stop="20260731183000 +0800" channel="fifa2.unifi">
-    <title lang="ms">EP 11 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="ms">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/05793DF0-B2E9-4447-B7C6-DE8ADCB5EA24/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731183000 +0800" stop="20260731190000 +0800" channel="fifa2.unifi">
-    <title lang="ms">EP 12 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="ms">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/05793DF0-B2E9-4447-B7C6-DE8ADCB5EA24/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731190000 +0800" stop="20260731230000 +0800" channel="fifa2.unifi">
-    <title lang="ms">(R) France vs England: FIFA World Cup™ 2026 Third Place (BI Grandstand)</title>
-    <desc lang="ms">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/05793DF0-B2E9-4447-B7C6-DE8ADCB5EA24/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731230000 +0800" stop="20260731233000 +0800" channel="fifa2.unifi">
-    <title lang="ms">EP 11 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="ms">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/05793DF0-B2E9-4447-B7C6-DE8ADCB5EA24/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731233000 +0800" stop="20260801000000 +0800" channel="fifa2.unifi">
-    <title lang="ms">EP 12 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="ms">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/05793DF0-B2E9-4447-B7C6-DE8ADCB5EA24/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731063000 +0800" stop="20260731110000 +0800" channel="fifa3.unifi">
-    <title lang="ms">(R) Mexico vs England : FIFA World Cup™ 2026 Round of 16</title>
-    <desc lang="ms">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6F6D4C8B-DE5E-41AF-BCA9-3EF630205F40/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731110000 +0800" stop="20260731113000 +0800" channel="fifa3.unifi">
-    <title lang="ms">EP 5 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="ms">Preview FIFA World Cup™ 2026 actions</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6F6D4C8B-DE5E-41AF-BCA9-3EF630205F40/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731113000 +0800" stop="20260731120000 +0800" channel="fifa3.unifi">
-    <title lang="ms">EP 6 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="ms">Preview FIFA World Cup™ 2026 actions</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6F6D4C8B-DE5E-41AF-BCA9-3EF630205F40/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731120000 +0800" stop="20260731160000 +0800" channel="fifa3.unifi">
-    <title lang="ms">(R) Argentina vs Egypt : FIFA World Cup™ 2026 Round of 16</title>
-    <desc lang="ms">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6F6D4C8B-DE5E-41AF-BCA9-3EF630205F40/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731160000 +0800" stop="20260731163000 +0800" channel="fifa3.unifi">
-    <title lang="ms">EP 5 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="ms">Preview FIFA World Cup™ 2026 actions</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6F6D4C8B-DE5E-41AF-BCA9-3EF630205F40/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731163000 +0800" stop="20260731170000 +0800" channel="fifa3.unifi">
-    <title lang="ms">EP 6 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="ms">Preview FIFA World Cup™ 2026 actions</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6F6D4C8B-DE5E-41AF-BCA9-3EF630205F40/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731170000 +0800" stop="20260731173000 +0800" channel="fifa3.unifi">
-    <title lang="ms">EP 7 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="ms">Preview FIFA World Cup™ 2026 actions</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6F6D4C8B-DE5E-41AF-BCA9-3EF630205F40/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731173000 +0800" stop="20260731180000 +0800" channel="fifa3.unifi">
-    <title lang="ms">EP 8 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="ms">Preview FIFA World Cup™ 2026 actions</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6F6D4C8B-DE5E-41AF-BCA9-3EF630205F40/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731180000 +0800" stop="20260731223000 +0800" channel="fifa3.unifi">
-    <title lang="ms">(R) Mexico vs England : FIFA World Cup™ 2026 Round of 16</title>
-    <desc lang="ms">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6F6D4C8B-DE5E-41AF-BCA9-3EF630205F40/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731223000 +0800" stop="20260731230000 +0800" channel="fifa3.unifi">
-    <title lang="ms">EP 5 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="ms">Preview FIFA World Cup™ 2026 actions</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6F6D4C8B-DE5E-41AF-BCA9-3EF630205F40/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731230000 +0800" stop="20260731233000 +0800" channel="fifa3.unifi">
-    <title lang="ms">EP 6 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="ms">Preview FIFA World Cup™ 2026 actions</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6F6D4C8B-DE5E-41AF-BCA9-3EF630205F40/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260731233000 +0800" stop="20260801000000 +0800" channel="fifa3.unifi">
-    <title lang="ms">EP 7 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="ms">Preview FIFA World Cup™ 2026 actions</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6F6D4C8B-DE5E-41AF-BCA9-3EF630205F40/0-16x9.png?width=500"/>
-  </programme>
   <programme start="20260731071500 +0800" stop="20260731081500 +0800" channel="spotv.unifi">
     <title lang="ms">2026 Hyundai Archery World Cup, Stage 4 Madrid (ESP) - Compound Highlights</title>
     <desc lang="ms">Consisting of four stages and a grand final, the Hyundai Archery World Cup features international elite recurve and compound archers shooting for the title of Hyundai Archery World Cup Champion.</desc>
@@ -1694,7 +1497,7 @@
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B6AE264E-3B1A-4E37-B9A2-43D912FC89D7/0-16x9.png?width=500"/>
   </programme>
   <programme start="20260801003000 +0800" stop="20260801020000 +0800" channel="beinsports2.unifi">
-    <title lang="ms">Premier Padel - Pretoria P1 Day 5 QF Match 6 (L)</title>
+    <title lang="ms">Premier Padel - Pretoria P1 Day 5 QF Match 7 (L)</title>
     <desc lang="ms">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B6AE264E-3B1A-4E37-B9A2-43D912FC89D7/0-16x9.png?width=500"/>
   </programme>
@@ -2219,8 +2022,8 @@
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F01074B2-F6DD-441B-9477-1DF50C081978/0-16x9.png?width=500"/>
   </programme>
   <programme start="20260731080000 +0800" stop="20260731100000 +0800" channel="tv1.unifi">
-    <title lang="ms">Siaran Langsung: Sambutan Hari Pahlawan 2026</title>
-    <desc lang="ms">Siaran Langsung: Sambutan Hari Pahlawan 2026</desc>
+    <title lang="ms">LIVE : SELAMAT PAGI MALAYSIA</title>
+    <desc lang="ms">Bersama-sama pengacara membincangkan isu-isu terkini dalam Selamat Pagi Malaysia.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F01074B2-F6DD-441B-9477-1DF50C081978/0-16x9.png?width=500"/>
   </programme>
   <programme start="20260731100000 +0800" stop="20260731100500 +0800" channel="tv1.unifi">
@@ -2413,14 +2216,9 @@
     <desc lang="ms">Bacaan Surah Ar Rahman.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F01074B2-F6DD-441B-9477-1DF50C081978/0-16x9.png?width=500"/>
   </programme>
-  <programme start="20260801060200 +0800" stop="20260801065500 +0800" channel="tv1.unifi">
+  <programme start="20260801060200 +0800" stop="20260801070000 +0800" channel="tv1.unifi">
     <title lang="ms">Podcase Syariah</title>
     <desc lang="ms">Podcase Syariah mengupas isu-isu semasa berkaitan hukum Islam secara santai dan ilmiah. Menampilkan pakar untuk memberi penjelasan jelas, relevan dan mudah difahami oleh semua lapisan masyakarat.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F01074B2-F6DD-441B-9477-1DF50C081978/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260801065500 +0800" stop="20260801070000 +0800" channel="tv1.unifi">
-    <title lang="ms">Kapsul Jiran</title>
-    <desc lang="ms">Kapsul Jiran</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F01074B2-F6DD-441B-9477-1DF50C081978/0-16x9.png?width=500"/>
   </programme>
   <programme start="20260801070000 +0800" stop="20260801074400 +0800" channel="tv1.unifi">
@@ -2433,9 +2231,9 @@
     <desc lang="ms">Membawakan perkembangan terkini, isu-isu semasa dalam negara serta peristiwa yang berlaku di seluruh dunia.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F01074B2-F6DD-441B-9477-1DF50C081978/0-16x9.png?width=500"/>
   </programme>
-  <programme start="20260801080000 +0800" stop="20260801100000 +0800" channel="tv1.unifi">
-    <title lang="ms">LIVE : SELAMAT PAGI MALAYSIA + Grandstand Hari Mengundi</title>
-    <desc lang="ms">Bersama-sama pengacara membincangkan isu-isu terkini dalam Selamat Pagi Malaysia.</desc>
+  <programme start="20260801080000 +0800" stop="20260801103000 +0800" channel="tv1.unifi">
+    <title lang="ms">SIARAN LANGSUNG: GRANDSTAND HARI MENGUNDI</title>
+    <desc lang="ms">Saksikan Siaran Langsung Grandstand Hari Mengundi.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F01074B2-F6DD-441B-9477-1DF50C081978/0-16x9.png?width=500"/>
   </programme>
   <programme start="20260731073000 +0800" stop="20260731080000 +0800" channel="tv2.unifi">
@@ -5223,7 +5021,7 @@
     <desc lang="ms">Asiapol agent Yang Ming Xuan trails a shipment of contraband gold being delivered to gang leader, George Eaton. He enlists the help of a Chinese woman who is trying to avenge her sister and narrowly escapes several deadly traps as he closes in on Eaton's location. This spy film is loosely inspired by the James Bond movies.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/E4D467A1-81DD-4D5C-9AE8-43C7908B80E9/0-16x9.png?width=500"/>
   </programme>
-  <programme start="20260801042500 +0800" stop="20260801062000 +0800" channel="celestialclassicmovies.unifi">
+  <programme start="20260801042500 +0800" stop="20260801062500 +0800" channel="celestialclassicmovies.unifi">
     <title lang="ms">The Three Smiles</title>
     <desc lang="ms">A talented scholar, Bo Hu, is attracted by the pretty maid, Qiu Xiang. In order to get close to her and win her love, he disguises as a servant to work in the same household. Qiu Xiang does not believe Bo Hu when he discloses his true identity to her, only falling in love with him when he reveals his talents and with his friends' help.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/E4D467A1-81DD-4D5C-9AE8-43C7908B80E9/0-16x9.png?width=500"/>
@@ -7473,52 +7271,52 @@
     <desc lang="ms">Be an eyewitness to the death and resurrection that winter brings to Africa. Observe what comes with shorter days, from drought conditions to frigid winds, and marvel at the survival skills of animals and plants as they face the season's fury.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9B3871C9-6B6A-4B72-A180-D2F3C0717159/0-16x9.png?width=500"/>
   </programme>
-  <programme start="20260731234000 +0800" stop="20260801003500 +0800" channel="lovenaturehd.unifi">
+  <programme start="20260731234000 +0800" stop="20260801004000 +0800" channel="lovenaturehd.unifi">
     <title lang="ms">Tusker: Brotherhood of Elephants</title>
     <desc lang="ms">Become immersed in the intricate lives of tuskers with Craig, Pascal, and Esau, three male African elephants in all stages of life. Get a rare glimpse into the subtle language, complex interactions, and deep bonds of the world's largest land mammal.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9B3871C9-6B6A-4B72-A180-D2F3C0717159/0-16x9.png?width=500"/>
   </programme>
-  <programme start="20260801003500 +0800" stop="20260801012500 +0800" channel="lovenaturehd.unifi">
+  <programme start="20260801004000 +0800" stop="20260801013000 +0800" channel="lovenaturehd.unifi">
     <title lang="ms">Wild Tales From The Farm</title>
     <desc lang="ms">Experience life on the farm as things heat up for summer. Watch animals swelter in a rare heatwave, try to stay cool in the nearby freshwater stream, and stash supplies for fall.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9B3871C9-6B6A-4B72-A180-D2F3C0717159/0-16x9.png?width=500"/>
   </programme>
-  <programme start="20260801012500 +0800" stop="20260801022000 +0800" channel="lovenaturehd.unifi">
+  <programme start="20260801013000 +0800" stop="20260801022500 +0800" channel="lovenaturehd.unifi">
     <title lang="ms">Cub Camp</title>
     <desc lang="ms">Get to know Winston, a tiny abandoned cub who imprints on Judy as she nurses him 24-7. Feel the heartbreak as she severs their emotional attachment and teaches this sweet little fellow how to be a grown-up, independent bear in the non-human world.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9B3871C9-6B6A-4B72-A180-D2F3C0717159/0-16x9.png?width=500"/>
   </programme>
-  <programme start="20260801022000 +0800" stop="20260801031500 +0800" channel="lovenaturehd.unifi">
+  <programme start="20260801022500 +0800" stop="20260801032000 +0800" channel="lovenaturehd.unifi">
     <title lang="ms">Cub Camp</title>
     <desc lang="ms">Welcome sisters Xiba, Xyla, and Xola, a trio of starving orphans who turn Winston's world upside down before gentle Xola teaches him a lesson about friendship. Then monitor new cubs Yasmine and Yara, who get reacquainted after a stressful separation.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9B3871C9-6B6A-4B72-A180-D2F3C0717159/0-16x9.png?width=500"/>
   </programme>
-  <programme start="20260801031500 +0800" stop="20260801041000 +0800" channel="lovenaturehd.unifi">
+  <programme start="20260801032000 +0800" stop="20260801041500 +0800" channel="lovenaturehd.unifi">
     <title lang="ms">The Ocean's Greatest Feast</title>
     <desc lang="ms">Get a front-row seat to the planet's biggest biomass migration, the annual 1,000-mile sardine run along South Africa's east coast. See billions of these tiny fish run a gauntlet of hungry predators, including stealthy seals and dive-bombing gannets.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9B3871C9-6B6A-4B72-A180-D2F3C0717159/0-16x9.png?width=500"/>
   </programme>
-  <programme start="20260801041000 +0800" stop="20260801050500 +0800" channel="lovenaturehd.unifi">
+  <programme start="20260801041500 +0800" stop="20260801051000 +0800" channel="lovenaturehd.unifi">
     <title lang="ms">Africa's Wild Year</title>
     <desc lang="ms">Autumn in Africa brings opportunities. Cape Fur seals, Samango monkeys, chameleons, impala, and more respond to the season. Autumn triggers changes in the lives of many animals. Rare creatures reveal themselves and predators gather to take advantage.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9B3871C9-6B6A-4B72-A180-D2F3C0717159/0-16x9.png?width=500"/>
   </programme>
-  <programme start="20260801050500 +0800" stop="20260801060000 +0800" channel="lovenaturehd.unifi">
+  <programme start="20260801051000 +0800" stop="20260801060500 +0800" channel="lovenaturehd.unifi">
     <title lang="ms">Africa's Wild Year</title>
     <desc lang="ms">Be an eyewitness to the death and resurrection that winter brings to Africa. Observe what comes with shorter days, from drought conditions to frigid winds, and marvel at the survival skills of animals and plants as they face the season's fury.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9B3871C9-6B6A-4B72-A180-D2F3C0717159/0-16x9.png?width=500"/>
   </programme>
-  <programme start="20260801060000 +0800" stop="20260801062500 +0800" channel="lovenaturehd.unifi">
+  <programme start="20260801060500 +0800" stop="20260801063000 +0800" channel="lovenaturehd.unifi">
     <title lang="ms">Wild Dogs: Pack vs. Pride</title>
     <desc lang="ms">Head back to the den with the Kakumbi, who are mourning the loss of two pups. Chance upon a hyena den and a lion pride trying to take down a buffalo, then catch up with the Manzi, who are in a standoff with a leopard and a herd of angry elephants.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9B3871C9-6B6A-4B72-A180-D2F3C0717159/0-16x9.png?width=500"/>
   </programme>
-  <programme start="20260801062500 +0800" stop="20260801072000 +0800" channel="lovenaturehd.unifi">
+  <programme start="20260801063000 +0800" stop="20260801072500 +0800" channel="lovenaturehd.unifi">
     <title lang="ms">Arctic Secrets</title>
     <desc lang="ms">The Hudson Bay lowlands are part of North America's largest wetland. Over 300,000 square kilometers of muskeg, a vast bogland as far as the eye can see characterized by water soaked peat, mosses and stunted trees. Once thought of as barren wasteland, it is now understood that these bogs are crucially important to life on earth. Globally, there is as much carbon dioxide held in wetlands as there is in the atmosphere. The peatland ecosystem is the most efficient carbon sink on the planet.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9B3871C9-6B6A-4B72-A180-D2F3C0717159/0-16x9.png?width=500"/>
   </programme>
-  <programme start="20260801072000 +0800" stop="20260801081500 +0800" channel="lovenaturehd.unifi">
+  <programme start="20260801072500 +0800" stop="20260801082000 +0800" channel="lovenaturehd.unifi">
     <title lang="ms">Extreme Africa</title>
     <desc lang="ms">South Africa's Drakensberg is one of the continent's most impressive landscapes. It is home to sharp climatic and ecological gradients as physical conditions change for both land-based creatures and the Raptors that swirl in the skies above.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9B3871C9-6B6A-4B72-A180-D2F3C0717159/0-16x9.png?width=500"/>
@@ -8258,7 +8056,7 @@
     <desc lang="ms">Jim must convince Strickler to cut the bond to his mom while Claire and Toby sneak into his office during the Spring Fling Dance for the incantation.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/C80E3DCC-64D5-4447-991B-E2E2998E6DEF/0-16x9.png?width=500"/>
   </programme>
-  <programme start="20260731235500 +0800" stop="20260801001700 +0800" channel="dreamworkshd.unifi">
+  <programme start="20260731235500 +0800" stop="20260801002000 +0800" channel="dreamworkshd.unifi">
     <title lang="ms">Trollhunters: Tales of Arcadia</title>
     <desc lang="ms">Jim is dealt an emotional blow in his final fight with Angor Rot and must decide if his team is finally ready to cross over into the Darklands.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/C80E3DCC-64D5-4447-991B-E2E2998E6DEF/0-16x9.png?width=500"/>
@@ -11635,7 +11433,7 @@
   </programme>
   <programme start="20260801050500 +0800" stop="20260801060500 +0800" channel="abcaustralia.unifi">
     <title lang="ms">Weekend Breakfast</title>
-    <desc lang="ms">All the news you need to start your weekend. Fauziah Ibrahim and Johanna Nicholson bring you the latest news, interviews, politics, culture, weather and global affairs. Plus sport with Jared Coote.</desc>
+    <desc lang="ms">All the news you need to start your weekend. Fauziah Ibrahim and Kathryn Robinson bring you the latest news, interviews, politics, culture, weather and global affairs. Plus sport with Jared Coote.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F16A709A-F106-4164-8E34-DFD79461B61A/0-16x9.png?width=500"/>
   </programme>
   <programme start="20260801060500 +0800" stop="20260801070500 +0800" channel="abcaustralia.unifi">
@@ -12258,7 +12056,7 @@
     <desc lang="ms">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/83E223EF-AE4A-4E3F-A7D9-07A33B4C3A20/0-16x9.png?width=500"/>
   </programme>
-  <programme start="20260801053500 +0800" stop="20260801055000 +0800" channel="nhkworldjapan.unifi">
+  <programme start="20260801053500 +0800" stop="20260801060500 +0800" channel="nhkworldjapan.unifi">
     <title lang="ms">NHK World-Japan Special Programme</title>
     <desc lang="ms">NHK World-Japan presents a wide range of programmes from news, current affairs, and documentaries focusing on Japan and Asia.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/83E223EF-AE4A-4E3F-A7D9-07A33B4C3A20/0-16x9.png?width=500"/>
@@ -12270,7 +12068,7 @@
   </programme>
   <programme start="20260801063500 +0800" stop="20260801070500 +0800" channel="nhkworldjapan.unifi">
     <title lang="ms">Asia Insight</title>
-    <desc lang="ms">An in-depth look at the realities of Asia today, a dynamic region which faces political, economic, cultural and technological change.</desc>
+    <desc lang="ms">Known as the hardest cheese in the world, Nepal's traditional chhurpi is facing a serious shortage of makers. Young Nepali entrepreneurs are now building a new future for chhurpi in overseas markets.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/83E223EF-AE4A-4E3F-A7D9-07A33B4C3A20/0-16x9.png?width=500"/>
   </programme>
   <programme start="20260801070500 +0800" stop="20260801071500 +0800" channel="nhkworldjapan.unifi">
@@ -12285,7 +12083,7 @@
   </programme>
   <programme start="20260801072000 +0800" stop="20260801073500 +0800" channel="nhkworldjapan.unifi">
     <title lang="ms">Japan's Top Inventions</title>
-    <desc lang="ms">The stories and secrets behind world-renowned Japanese products revealed through interviews and reenactments - join our reporter for an exciting behind-the-scenes look at Japanese craftsmanship.</desc>
+    <desc lang="ms">Discover the stories behind renowned Japanese products alongside our reporter. This time: pre-inked stamps.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/83E223EF-AE4A-4E3F-A7D9-07A33B4C3A20/0-16x9.png?width=500"/>
   </programme>
   <programme start="20260801073500 +0800" stop="20260801080500 +0800" channel="nhkworldjapan.unifi">

@@ -4258,12 +4258,12 @@
     <desc lang="ms">Yusuf mula berkawan dengan Manja untuk menghilangkan rasa rindunya pada Manis yang dikatakan bahagia bersama suaminya di bandar. Manis pula mula takut bila Ikram mula berani bertindak kasar terhadapnya.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JMETQ.jpg"/>
   </programme>
-  <programme start="20260801115800 +0800" stop="20260801120000 +0800" channel="193.astro">
+  <programme start="20260801115800 +0800" stop="20260801115900 +0800" channel="193.astro">
     <title lang="ms">Weekly Trailer Bulan Henti Bicara Ep02</title>
     <desc lang="ms">Weekly Trailer Bulan Henti Bicara</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYCXV_series.jpg"/>
   </programme>
-  <programme start="20260801120000 +0800" stop="20260801143000 +0800" channel="193.astro">
+  <programme start="20260801115900 +0800" stop="20260801143000 +0800" channel="193.astro">
     <title lang="ms">Big Stage Rocketfuel Minggu 5 Ep05</title>
     <desc lang="ms">Big Stage Rocketfuel kembali dengan musim baharu mencari bintang nyanyian seterusnya. Bertemakan "Dominasi For Real", siapa bakal juara musim ini?</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KXSNV.jpg"/>
@@ -4330,7 +4330,7 @@
   </programme>
   <programme start="20260801233000 +0800" stop="20260802003000 +0800" channel="193.astro">
     <title lang="ms">Rahsiamu Selamat Denganku Ep01 Ep01</title>
-    <desc lang="ms">Pelajar bercakap tentang aplikasi baru 'Lies or Dare'. Seseorang menulis pengakuan tantang kehidupan peribadi mereka. Hana ingin memantau aplikasi itu untuk mengelakkan sebarang kesan yang tidak diingini.</desc>
+    <desc lang="ms">Pelajar bercakap tentang aplikasi baru ‘Lies or Dare’. Seseorang menulis pengakuan tantang kehidupan peribadi mereka. Hana ingin memantau aplikasi itu untuk mengelakkan sebarang kesan yang tidak diingini.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KPUEN_series.jpg"/>
   </programme>
   <programme start="20260802003000 +0800" stop="20260802011500 +0800" channel="193.astro">
@@ -12198,7 +12198,7 @@
     <desc lang="ms">Mahadev, a man of principle, runs a strict household as the head of his family. However, his children rebel, and a generational clash ensues.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000381X960624.jpg"/>
   </programme>
-  <programme start="20260801060000 +0800" stop="20260801073000 +0800" channel="365.astro">
+  <programme start="20260801060000 +0800" stop="20260801080000 +0800" channel="365.astro">
     <title lang="ms">Laughter Chefs S3 Ep70</title>
     <desc lang="ms">Laughter Chefs S3 is a fun-filled cooking show where celebrity duos take on hilarious kitchen challenges. With Bharti Singh hosting and Chef Harpal judging, it's all about food, laughter, and chaos.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000381X871304.jpg"/>
@@ -13244,9 +13244,9 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000585X471232.jpg"/>
   </programme>
   <programme start="20260801030000 +0800" stop="20260801060000 +0800" channel="490.astro">
-    <title lang="ms">Baar Baar Dekho</title>
-    <desc lang="ms">The highs and lows of a romantic relationship are examined through flashbacks and flash-forwards.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000585X734327.jpg"/>
+    <title lang="ms">Krantiveer</title>
+    <desc lang="ms">After being disowned by his family, Pratap, a juvenile gambler, ends up in Mumbai where he gets adopted by Laxminath, a landlord. However, when Laxminath is murdered, Pratap vows to avenge him.</desc>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ZeeCinema_2025_IVP_LAND_917x516.jpg"/>
   </programme>
   <programme start="20260801060000 +0800" stop="20260801090000 +0800" channel="490.astro">
     <title lang="ms">Dream Girl</title>
@@ -27253,10 +27253,10 @@
     <desc lang="ms">After being cheated by Narayanan, a house agent, Ajay and Anjali end up sharing the same apartment. Love blossoms between the two while they attempt to catch Narayanan.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/KTV_HD_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260801043000 +0800" stop="20260801073000 +0800" channel="477.astro">
+  <programme start="20260801043000 +0800" stop="20260801062800 +0800" channel="477.astro">
     <title lang="ms">Thondan</title>
     <desc lang="ms">Jeeva, an uneducated driver, cannot tolerate child labour and fights to eliminate it. When Subha witnesses a murder and is in danger, Jeeva comes to her rescue.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/KTV_HD_IVP_LAND_917x516.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000342X307476.jpg"/>
   </programme>
   <programme start="20260801073000 +0800" stop="20260801093000 +0800" channel="477.astro">
     <title lang="ms">Sathyam Sivam Sundaram</title>
@@ -28113,10 +28113,15 @@
     <desc lang="ms">Meena marries Muthukumar without her full heart. Muthukumar hates love due to his past. Will Muthukumar understand and accept Meena? Will Meena achieve her dreams?</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000375X703021.jpg"/>
   </programme>
-  <programme start="20260801013000 +0800" stop="20260801023000 +0800" channel="357.astro">
+  <programme start="20260801013000 +0800" stop="20260801020000 +0800" channel="357.astro">
     <title lang="ms">Chinna Marumagal</title>
     <desc lang="ms">The story revolves around Tamilselvi as she struggles to navigate challenging situations in her in-laws' house, all while being a clueless teenager.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000375X785799.jpg"/>
+  </programme>
+  <programme start="20260801020000 +0800" stop="20260801023000 +0800" channel="357.astro">
+    <title lang="ms">Kadhal Kadhal Kadhal</title>
+    <desc lang="ms">Karikalan, a retired Tamil professor and a strict patriarch, whose perfectly disciplined world is shaken when the hidden love lives of his three sons come to light.</desc>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_10000148_IVP_LAND_917x516.jpg"/>
   </programme>
   <programme start="20260801023000 +0800" stop="20260801030000 +0800" channel="357.astro">
     <title lang="ms">Onna Irukka Kaththukkanum</title>
@@ -55300,17 +55305,17 @@
   </programme>
   <programme start="20260804204500 +0800" stop="20260804223000 +0800" channel="251.astro">
     <title lang="ms">Black Hand</title>
-    <desc lang="ms">A doctor's hand is severed in a bizarre accident but her lover manages to reattach it using a new technology. But there are unexpected consequences.</desc>
+    <desc lang="ms">A doctor’s hand is severed in a bizarre accident but her lover manages to reattach it using a new technology. But there are unexpected consequences.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/HWENG.jpg"/>
   </programme>
   <programme start="20260804223000 +0800" stop="20260805001000 +0800" channel="251.astro">
-    <title lang="ms">No information available</title>
-    <desc lang="ms">No information available</desc>
+    <title lang="ms">Kampungku Ada Hantu</title>
+    <desc lang="ms">Nayan pulang ke kampung dan bertemu dengan Maria, seorang wanita misteri dan pelbagai kejadian aneh berlaku semenjak itu. Lakonan Along Cham &amp; Julia Ziegler.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroBoo_2024_IVP_LAND_917x516.jpg"/>
   </programme>
   <programme start="20260805001000 +0800" stop="20260805014500 +0800" channel="251.astro">
     <title lang="ms">Lembur</title>
-    <desc lang="ms">Late at night, a web designer is hard at work in the office, trying to deliver on a project. Suddenly, he senses that he is not the only one pulling the night shift in the office...</desc>
+    <desc lang="ms">Late at night, a web designer is hard at work in the office, trying to deliver on a project. Suddenly, he senses that he is not the only one pulling the night shift in the office…</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KDNSV.jpg"/>
   </programme>
   <programme start="20260805014500 +0800" stop="20260805031500 +0800" channel="251.astro">
@@ -55325,7 +55330,7 @@
   </programme>
   <programme start="20260805044500 +0800" stop="20260805061500 +0800" channel="251.astro">
     <title lang="ms">The Boy Behind The Door</title>
-    <desc lang="ms">An abducted boy escapes captivity, but he must also find a way to free his best friend from their kidnapper's house.</desc>
+    <desc lang="ms">An abducted boy escapes captivity, but he must also find a way to free his best friend from their kidnapper’s house.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KGZRY.jpg"/>
   </programme>
   <programme start="20260805061500 +0800" stop="20260805074500 +0800" channel="251.astro">
@@ -73226,134 +73231,134 @@
   <programme start="20260801100200 +0800" stop="20260801103200 +0800" channel="461.astro">
     <title lang="ms">ABC News at Noon</title>
     <desc lang="ms">Meredith Sheehan presents the latest from ABC News on the weekend bringing you today's top stories and coverage of events as they unfold.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/2901X326833.jpg"/>
   </programme>
   <programme start="20260801103200 +0800" stop="20260801110200 +0800" channel="461.astro">
     <title lang="ms">Asia News Week</title>
     <desc lang="ms">A major earthquake hits Japan's Kyushu island, India's education minister resigns following nationwide protests, plus why K-pop superstars BTS are boycotting next year's Grammy Awards.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000539X860927.jpg"/>
   </programme>
-  <programme start="20260801110200 +0800" stop="20260801140200 +0800" channel="461.astro">
+  <programme start="20260801110200 +0800" stop="20260801140300 +0800" channel="461.astro">
     <title lang="ms">(L) AFL Premiership Season</title>
     <desc lang="ms">AFL Premiership Season - Round 21 - St Kilda v Sydney Swans</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000539X705133.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260801140200 +0800" stop="20260801140700 +0800" channel="461.astro">
+  <programme start="20260801140300 +0800" stop="20260801141000 +0800" channel="461.astro">
     <title lang="ms">Play on</title>
     <desc lang="ms">Migrant families and athletes of multicultural heritage are changing Australia's sporting culture. From social sport to elite athletes, Paul Kennedy examines how sport helps build community.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260801140700 +0800" stop="20260801161200 +0800" channel="461.astro">
+  <programme start="20260801141000 +0800" stop="20260801162900 +0800" channel="461.astro">
     <title lang="ms">(L) AFLW</title>
     <desc lang="ms">AFLW: Australia v Ireland</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260801161200 +0800" stop="20260801164200 +0800" channel="461.astro">
-    <title lang="ms">That Pacific Sports Show</title>
-    <desc lang="ms">Tiana Penitani Gray sits down with Samoan tennis trailblazer Destanee Aiava to discuss her rise in tennis, the pressures of the pro tour, and the resilience driving her journey on and off the court.</desc>
+  <programme start="20260801162900 +0800" stop="20260801164600 +0800" channel="461.astro">
+    <title lang="ms">Play on</title>
+    <desc lang="ms">How migrant families and athletes of multicultural heritage are changing the landscape of Australian sport. From social sport to elite athletes, Paul Kennedy examines how sport helps build community.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260801164200 +0800" stop="20260801173200 +0800" channel="461.astro">
+  <programme start="20260801164600 +0800" stop="20260801173200 +0800" channel="461.astro">
     <title lang="ms">Playing on a Prayer</title>
     <desc lang="ms">What does it take to make it into the AFL? We follow two Muslim teenagers, Adam Sweid and Huss El Achkar, as they attempt to get drafted as professional athletes into the Australian Football League.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260801173200 +0800" stop="20260801201700 +0800" channel="461.astro">
+  <programme start="20260801173200 +0800" stop="20260801201900 +0800" channel="461.astro">
     <title lang="ms">(L) AFL Premiership Season</title>
     <desc lang="ms">AFL Premiership Season - Round 21 - Carlton v Brisbane Lions</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000539X705133.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260801201700 +0800" stop="20260801211700 +0800" channel="461.astro">
+  <programme start="20260801201900 +0800" stop="20260801211500 +0800" channel="461.astro">
     <title lang="ms">A Brief History of Cricket Down Under</title>
     <desc lang="ms">By the 2000s Australia is dominating world cricket but there's great excitement when a resurgent India becames a challenger and a thrilling new format secures cricket's future.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000539X818379.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260801211700 +0800" stop="20260801220700 +0800" channel="461.astro">
+  <programme start="20260801211500 +0800" stop="20260801221100 +0800" channel="461.astro">
     <title lang="ms">Four Corners</title>
     <desc lang="ms">Can Australians trust the labels on the food they buy? Four Corners investigation, Adele Ferguson teams up with forensic food scientists to examine the integrity of Australia's food supply.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260801220700 +0800" stop="20260801223700 +0800" channel="461.astro">
+  <programme start="20260801221100 +0800" stop="20260801224100 +0800" channel="461.astro">
     <title lang="ms">Foreign Correspondent</title>
     <desc lang="ms">In China an electric revolution is taking place. Across the country, electric cars we might consider luxury are now standard issue. China invested billions to produce smarter and cheaper Evs.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/2901X198021.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260801223700 +0800" stop="20260801230700 +0800" channel="461.astro">
+  <programme start="20260801224100 +0800" stop="20260801230900 +0800" channel="461.astro">
     <title lang="ms">The World This Week</title>
     <desc lang="ms">Girish Sawlani presents the week's best international stories from an Australian perspective, as seen by ABC News reporters posted in Europe, North America, the Middle East and the Pacific.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000318X676075.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260801230700 +0800" stop="20260802000700 +0800" channel="461.astro">
+  <programme start="20260801230900 +0800" stop="20260802000700 +0800" channel="461.astro">
     <title lang="ms">Muster Dogs</title>
     <desc lang="ms">In Goondy Creek NSW, we meet Debbie and Snip, the parents of the brand-new litter of Muster Dog pups. Five of these pups will steal our hearts as we watch them grow in the twelve-month experiment.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/2901X659354.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260802000700 +0800" stop="20260802003200 +0800" channel="461.astro">
+  <programme start="20260802000700 +0800" stop="20260802003500 +0800" channel="461.astro">
     <title lang="ms">Asia News Week</title>
     <desc lang="ms">A major earthquake hits Japan's Kyushu island, India's education minister resigns following nationwide protests, plus why K-pop superstars BTS are boycotting next year's Grammy Awards.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260802003200 +0800" stop="20260802012700 +0800" channel="461.astro">
+  <programme start="20260802003500 +0800" stop="20260802012700 +0800" channel="461.astro">
     <title lang="ms">See What You Made Me Do</title>
     <desc lang="ms">Not all abuse is violent, and where violence does exist, it has almost always been preceded by controlling behaviours now known as 'coercive control'.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000539X883808.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260802012700 +0800" stop="20260802021200 +0800" channel="461.astro">
+  <programme start="20260802012700 +0800" stop="20260802021400 +0800" channel="461.astro">
     <title lang="ms">Great Barrier Reef: a Living Treasu</title>
     <desc lang="ms">The Great Barrier Reef is a living, breathing organism supporting the richest most complex ecosystem on the planet.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000539X852600.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260802021200 +0800" stop="20260802030200 +0800" channel="461.astro">
+  <programme start="20260802021400 +0800" stop="20260802030300 +0800" channel="461.astro">
     <title lang="ms">Great Australian Road Trips</title>
     <desc lang="ms">Four high-profile Australian stars embark on an epic road trip across the country's most iconic landscapes, one unforgettable pit-stop at a time.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260802030200 +0800" stop="20260802033200 +0800" channel="461.astro">
+  <programme start="20260802030300 +0800" stop="20260802033200 +0800" channel="461.astro">
     <title lang="ms">The World This Week</title>
     <desc lang="ms">Girish Sawlani presents the week's best international stories from an Australian perspective, as seen by ABC News reporters posted in Europe, North America, the Middle East and the Pacific.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000318X676075.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260802033200 +0800" stop="20260802040200 +0800" channel="461.astro">
+  <programme start="20260802033200 +0800" stop="20260802040300 +0800" channel="461.astro">
     <title lang="ms">That Pacific Sports Show</title>
     <desc lang="ms">That Pacific Sports Show shares the stories, meets the athletes and explores the big issues affecting the Pacific region through the lens of sport.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/2901X506568.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260802040200 +0800" stop="20260802050200 +0800" channel="461.astro">
+  <programme start="20260802040300 +0800" stop="20260802050200 +0800" channel="461.astro">
     <title lang="ms">A Brief History of Cricket Down Under</title>
     <desc lang="ms">Australia's the benchmark for cricket, mainly due to a leadership succession plan. India is also thinking outside the box and a fearless new leader helps their march to greatness.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000539X818379.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
   </programme>
   <programme start="20260802050200 +0800" stop="20260802060200 +0800" channel="461.astro">
     <title lang="ms">Weekend Breakfast</title>
     <desc lang="ms">All the news you need to start your Sunday. Fauziah Ibrahim and Lorna Dunkley bring you the latest news, interviews, politics, culture, weather and global affairs. Plus sport with Jared Coote.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20260802060200 +0800" stop="20260802070200 +0800" channel="461.astro">
-    <title lang="ms">Weekend Breakfast</title>
-    <desc lang="ms">All the news you need to start your day. Fauziah Ibrahim and Johanna Nicholson bring you the latest news, interviews, politics, culture, weather and global affairs. Plus sport with Daniela Intili.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/2901X144431.jpg"/>
   </programme>
-  <programme start="20260802070200 +0800" stop="20260802080200 +0800" channel="461.astro">
+  <programme start="20260802060200 +0800" stop="20260802070300 +0800" channel="461.astro">
+    <title lang="ms">Weekend Breakfast</title>
+    <desc lang="ms">All the news you need to start your day. Fauziah Ibrahim and Johanna Nicholson bring you the latest news, interviews, politics, culture, weather and global affairs. Plus sport with Daniela Intili.</desc>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
+  </programme>
+  <programme start="20260802070300 +0800" stop="20260802080200 +0800" channel="461.astro">
     <title lang="ms">Insiders</title>
     <desc lang="ms">David Speers discusses the week in politics with James Campbell, Tom Crowley and Jacqueline Maley including inflation, AusAlert test, and Ben Carroll replaces Jacinta Allan as Victorian Premier.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260802080200 +0800" stop="20260802083200 +0800" channel="461.astro">
+  <programme start="20260802080200 +0800" stop="20260802083300 +0800" channel="461.astro">
     <title lang="ms">Offsiders</title>
     <desc lang="ms">Abbey Gelmi discusses the Commonwealth Games and we cross to Jessica Stewart with the latest from Glasgow. Plus the final four rounds of the AFL regular season and Australia take on Ireland in AFLW.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260802083200 +0800" stop="20260802090200 +0800" channel="461.astro">
+  <programme start="20260802083300 +0800" stop="20260802090300 +0800" channel="461.astro">
     <title lang="ms">That Pacific Sports Show</title>
     <desc lang="ms">That Pacific Sports Show shares the stories, meets the athletes and explores the big issues affecting the Pacific region through the lens of sport.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/2901X506568.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260802090200 +0800" stop="20260802093200 +0800" channel="461.astro">
+  <programme start="20260802090300 +0800" stop="20260802093300 +0800" channel="461.astro">
     <title lang="ms">Back Roads</title>
     <desc lang="ms">In the first of a two-part special, Back Roads guest presenter Rae Johnston tackles the iconic Binns Track through the red heart of Central Australia.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/2901X144514.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260802093200 +0800" stop="20260802100200 +0800" channel="461.astro">
+  <programme start="20260802093300 +0800" stop="20260802100200 +0800" channel="461.astro">
     <title lang="ms">Landline</title>
     <desc lang="ms">A fertiliser supplement made from recycled glass; and 50 years of weather data helping Western Queensland graziers deal with a changing climate.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
@@ -73361,7 +73366,7 @@
   <programme start="20260802100200 +0800" stop="20260802103200 +0800" channel="461.astro">
     <title lang="ms">ABC News at Noon</title>
     <desc lang="ms">Meredith Sheehan presents the latest from ABC News on the weekend bringing you today's top stories and coverage of events as they unfold.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/2901X326833.jpg"/>
   </programme>
   <programme start="20260802103200 +0800" stop="20260802110200 +0800" channel="461.astro">
     <title lang="ms">The World This Week</title>
@@ -73391,7 +73396,7 @@
   <programme start="20260802173200 +0800" stop="20260802180200 +0800" channel="461.astro">
     <title lang="ms">Compass</title>
     <desc lang="ms">Is Hinduism at a crossroads between spirituality and nationalism? Indian Prime Minister Narendra Modi's visit to Australia exposed divisions within the diaspora.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/2901X163106.jpg"/>
   </programme>
   <programme start="20260802180200 +0800" stop="20260802183200 +0800" channel="461.astro">
     <title lang="ms">Culture by Design</title>
@@ -73421,7 +73426,7 @@
   <programme start="20260802203200 +0800" stop="20260802210200 +0800" channel="461.astro">
     <title lang="ms">Offsiders</title>
     <desc lang="ms">Abbey Gelmi discusses the Commonwealth Games and we cross to Jessica Stewart with the latest from Glasgow. Plus the final four rounds of the AFL regular season and Australia take on Ireland in AFLW.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/2901X261336.jpg"/>
   </programme>
   <programme start="20260802210200 +0800" stop="20260802212700 +0800" channel="461.astro">
     <title lang="ms">Every Bite Takes You Home</title>
@@ -73441,7 +73446,7 @@
   <programme start="20260802222200 +0800" stop="20260802225200 +0800" channel="461.astro">
     <title lang="ms">Compass</title>
     <desc lang="ms">Is Hinduism at a crossroads between spirituality and nationalism? Indian Prime Minister Narendra Modi's visit to Australia exposed divisions within the diaspora.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/2901X163106.jpg"/>
   </programme>
   <programme start="20260802225200 +0800" stop="20260802232200 +0800" channel="461.astro">
     <title lang="ms">Culture by Design</title>
@@ -73471,17 +73476,17 @@
   <programme start="20260803013200 +0800" stop="20260803023200 +0800" channel="461.astro">
     <title lang="ms">Landline</title>
     <desc lang="ms">Confusion over the Federal Government's new environmental strategy; Producing Wagyu the West Australian way; Surveillance technology tracking theft and illegal fishing; and Heywire winner Hugo.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/2901X144479.jpg"/>
   </programme>
   <programme start="20260803023200 +0800" stop="20260803033200 +0800" channel="461.astro">
     <title lang="ms">Insiders</title>
     <desc lang="ms">David Speers discusses the week in politics with James Campbell, Tom Crowley and Jacqueline Maley including inflation, AusAlert test, and Ben Carroll replaces Jacinta Allan as Victorian Premier.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000539X247828.jpg"/>
   </programme>
   <programme start="20260803033200 +0800" stop="20260803040200 +0800" channel="461.astro">
     <title lang="ms">Offsiders</title>
     <desc lang="ms">Abbey Gelmi discusses the Commonwealth Games and we cross to Jessica Stewart with the latest from Glasgow. Plus the final four rounds of the AFL regular season and Australia take on Ireland in AFLW.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_2901_IVP_LAND_917x516.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/2901X261336.jpg"/>
   </programme>
   <programme start="20260803040200 +0800" stop="20260803050200 +0800" channel="461.astro">
     <title lang="ms">News Breakfast</title>
@@ -105778,17 +105783,17 @@
     <desc lang="ms">A real estate investor is looking to renovate an outdated rental, steps from the beach, into a prime Myrtle Beach, SC vacation destination.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_10000227_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260801010500 +0800" stop="20260801020000 +0800" channel="235.astro">
+  <programme start="20260801011300 +0800" stop="20260801021300 +0800" channel="235.astro">
     <title lang="ms">Nadi Arena</title>
     <desc lang="ms">Berita terkini dari dunia sukan tempatan dan antarabangsa.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KPPLV.jpg"/>
   </programme>
-  <programme start="20260801020000 +0800" stop="20260801050500 +0800" channel="235.astro">
+  <programme start="20260801021300 +0800" stop="20260801051800 +0800" channel="235.astro">
     <title lang="ms">Hari Pertama: Motor: MSBK 2026 Rnd 2</title>
     <desc lang="ms">Malaysia Superbike Championship 2026 Pusingan ke-2 dari Litar Antarabangsa Sepang, Selangor.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroArena_2024_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260801050500 +0800" stop="20260801060000 +0800" channel="235.astro">
+  <programme start="20260801051800 +0800" stop="20260801060000 +0800" channel="235.astro">
     <title lang="ms">Sorotan Hari Pertama: CelcomDigi NSL RC 2026</title>
     <desc lang="ms">Sorotan aksi-aksi menarik &amp; keputusan perlawanan CelcomDigi Netball Super League Regional Cup 2026.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWZOV.jpg"/>
@@ -111968,7 +111973,7 @@
     <desc lang="ms">BWF World Tour Super 750: KFF Singapore Badminton Open 2026: Quarter Finals: Court 2, from Singapore Indoor Stadium.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KVLRW.jpg"/>
   </programme>
-  <programme start="20260801011000 +0800" stop="20260801030000 +0800" channel="542.astro">
+  <programme start="20260801012000 +0800" stop="20260801030000 +0800" channel="542.astro">
     <title lang="ms">VNL Men's: Week 3: CHN vs BRA</title>
     <desc lang="ms">Volleyball Nations League 2026 (Men's) Preliminary Phase, Week 3: China vs Brazil, from NOW Arena, Chicago, USA.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KXQGF.jpg"/>
@@ -112448,7 +112453,7 @@
     <desc lang="ms">LIVE: ATP 500's Mubadala Citi DC Open 2026: Day 5: Quarter Finals, from Rock Creek Park Tennis Center, Washington D.C.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KXITG.jpg"/>
   </programme>
-  <programme start="20260801103000 +0800" stop="20260801180000 +0800" channel="616.astro">
+  <programme start="20260801113000 +0800" stop="20260801180000 +0800" channel="616.astro">
     <title lang="ms">ATP 250's Millenium Estoril Open: Day 2</title>
     <desc lang="ms">ATP 250's Millenium Estoril Open 2026: Day 2, from Clube de Tenis do Estoril, Estoril.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KXUVX.jpg"/>
@@ -115533,12 +115538,12 @@
     <desc lang="ms">The Challenge Tour, currently titled as the HotelPlanner Tour for sponsorship reasons, the second-tier men's professional golf tour in Europe.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWBEG.jpg"/>
   </programme>
-  <programme start="20260801030000 +0800" stop="20260801060000 +0800" channel="189.astro">
+  <programme start="20260801030000 +0800" stop="20260801060100 +0800" channel="189.astro">
     <title lang="ms">(L) Rocket Classic 2026 Day 2</title>
     <desc lang="ms">LIVE: Rocket Classic 2026 tournament held at Detroit Golf Club, Detroit, Michigan, USA.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KXIVV.jpg"/>
   </programme>
-  <programme start="20260801060000 +0800" stop="20260801063000 +0800" channel="189.astro">
+  <programme start="20260801060100 +0800" stop="20260801063000 +0800" channel="189.astro">
     <title lang="ms">Rory McIlroy's Ode To The Melbourne Sandbelt</title>
     <desc lang="ms">Ahead of the 2025 Crown Australian Open in December, McIlroy played a hole at each venue while discussing what makes the Melbourne stretch so special and reflecting on his career so far.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KVPDI.jpg"/>

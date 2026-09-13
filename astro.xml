@@ -404,14 +404,6 @@
     <display-name>Sukan+</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/621_144.png"/>
   </channel>
-  <channel id="568.astro">
-    <display-name>Astro Premier League 4</display-name>
-    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/568_144.png"/>
-  </channel>
-  <channel id="570.astro">
-    <display-name>Astro Premier League 5</display-name>
-    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/570_144.png"/>
-  </channel>
   <channel id="543.astro">
     <display-name>Astro Grandstand</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png"/>
@@ -983,14 +975,14 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYQMA.jpg"/>
   </programme>
   <programme start="20260914110000 +0800" stop="20260914113000 +0800" channel="622.astro">
-    <title lang="ms">Taste with Jason S8 Ep08</title>
-    <desc lang="ms">Follow Jason learns all about the history behind the local cuisine, and be taken on a gastronomical ride full of exciting flavours that will rock your socks off!</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/HEVTU.jpg"/>
+    <title lang="ms">Star Vs Food Malaysia S1 Ep04</title>
+    <desc lang="ms">Malaysian supermodel Alicia Amin’s cooking skill is put to the test when she is paired with the Chef Florence Tan to create authentic dishes of pie tee, sambal belacan and sweet and sour spicy fish.</desc>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KAVIN.jpg"/>
   </programme>
   <programme start="20260914113000 +0800" stop="20260914120000 +0800" channel="622.astro">
     <title lang="ms">Taste with Jason S8 Ep09</title>
     <desc lang="ms">Follow Jason learns all about the history behind the local cuisine, and be taken on a gastronomical ride full of exciting flavours that will rock your socks off!</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/HEVTV.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/HEVTU.jpg"/>
   </programme>
   <programme start="20260914120000 +0800" stop="20260914123000 +0800" channel="622.astro">
     <title lang="ms">Hikayat Batu Belah Batu Bertangkup Ep04</title>
@@ -1029,7 +1021,7 @@
   </programme>
   <programme start="20260914130000 +0800" stop="20260914135500 +0800" channel="622.astro">
     <title lang="ms">Legend Of The Female General Ep20</title>
-    <desc lang="ms">To protect her family's honor, He Yan disguises herself as a man and joins the battlefield. Betrayed, she returns with a new identity, fighting alongside a noble warrior to reclaim justice &amp; destiny.</desc>
+    <desc lang="ms">To protect her family’s honor, He Yan disguises herself as a man and joins the battlefield. Betrayed, she returns with a new identity, fighting alongside a noble warrior to reclaim justice &amp; destiny.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTQCL.jpg"/>
   </programme>
   <programme start="20260914135500 +0800" stop="20260914140000 +0800" channel="622.astro">
@@ -1058,8 +1050,8 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYQMA.jpg"/>
   </programme>
   <programme start="20260914160000 +0800" stop="20260914163000 +0800" channel="622.astro">
-    <title lang="ms">Pokemon Journeys: The Series Ep20</title>
-    <desc lang="ms">Two young Pokemon trainers become research fellows at a renowned Pokemon Laboratory, stepping into a world of adventures with their Pokemon friends.</desc>
+    <title lang="ms">Pokémon Journeys: The Series Ep20</title>
+    <desc lang="ms">Two young Pokémon trainers become research fellows at a renowned Pokémon Laboratory, stepping into a world of adventures with their Pokémon friends.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KPOFR.jpg"/>
   </programme>
   <programme start="20260914163000 +0800" stop="20260914170000 +0800" channel="622.astro">
@@ -1104,7 +1096,7 @@
   </programme>
   <programme start="20260914195000 +0800" stop="20260914195500 +0800" channel="622.astro">
     <title lang="ms">Yang Sudi Tinggal Ep01</title>
-    <desc lang="ms">From national athlete to educator, discover Emily's story and how Astro is changing her future.</desc>
+    <desc lang="ms">From national athlete to educator, discover Emily’s story and how Astro is changing her future.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYOJZ.jpg"/>
   </programme>
   <programme start="20260914195500 +0800" stop="20260914200000 +0800" channel="622.astro">
@@ -1134,7 +1126,7 @@
   </programme>
   <programme start="20260915011000 +0800" stop="20260915015500 +0800" channel="622.astro">
     <title lang="ms">Legend Of The Female General Ep20</title>
-    <desc lang="ms">To protect her family's honor, He Yan disguises herself as a man and joins the battlefield. Betrayed, she returns with a new identity, fighting alongside a noble warrior to reclaim justice &amp; destiny.</desc>
+    <desc lang="ms">To protect her family’s honor, He Yan disguises herself as a man and joins the battlefield. Betrayed, she returns with a new identity, fighting alongside a noble warrior to reclaim justice &amp; destiny.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KTQCL.jpg"/>
   </programme>
   <programme start="20260915015500 +0800" stop="20260915020000 +0800" channel="622.astro">
@@ -7357,22 +7349,22 @@
     <desc lang="ms">Saksikan tayangan perdana Tok Wan On Duty, menampilkan gelagat, cabaran dan situasi menarik yang menghiburkan seisi keluarga.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYOJC.jpg"/>
   </programme>
-  <programme start="20260913233000 +0800" stop="20260914000000 +0800" channel="316.astro">
+  <programme start="20260913233000 +0800" stop="20260914002000 +0800" channel="316.astro">
     <title lang="ms">Diari Compilation Kilauan Emas Selebriti Ep04</title>
     <desc lang="ms">Sebuah kompilasi penuh perjalanan para selebriti di sebalik tabir, daripada sesi latihan dan persiapan hinggalah ke detik sebelum mereka menakluk pentas konsert mingguan.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYKLI.jpg"/>
   </programme>
-  <programme start="20260914000000 +0800" stop="20260914000600 +0800" channel="316.astro">
+  <programme start="20260914002000 +0800" stop="20260914002500 +0800" channel="316.astro">
     <title lang="ms">No information available Ep08</title>
     <desc lang="ms">No information available</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYZAA.jpg"/>
   </programme>
-  <programme start="20260914000600 +0800" stop="20260914000800 +0800" channel="316.astro">
+  <programme start="20260914002500 +0800" stop="20260914002800 +0800" channel="316.astro">
     <title lang="ms">Cer Borak SeeNI S2 Ep38</title>
     <desc lang="ms">Cer Borak SeeNI S2</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroPrima_2024_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260914000800 +0800" stop="20260914011500 +0800" channel="316.astro">
+  <programme start="20260914002800 +0800" stop="20260914011500 +0800" channel="316.astro">
     <title lang="ms">Konsert Komedi Ep04</title>
     <desc lang="ms">Konsert eksklusif hiburan komedi yang menampilkan barisan pelawak terkenal di pentas nyanyian bergabung bersama idola-idola mereka.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/ICWKP.jpg"/>
@@ -17462,19 +17454,14 @@
     <desc lang="ms">Berita Iban memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Iban</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/TVS_HD_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260913111500 +0800" stop="20260913120000 +0800" channel="429.astro">
-    <title lang="ms">Inspirasi Duniamu Ep134</title>
-    <desc lang="ms">Inspirasi TVS merupakan segmen berita istimewa yang disampaikan oleh selebriti tempatan dengan mengetengahkan laporan berkaitan rakyat, hiburan serta topik trending.</desc>
+  <programme start="20260913111500 +0800" stop="20260913113000 +0800" channel="429.astro">
+    <title lang="ms">Borneo From Above S2 Ep11</title>
+    <desc lang="ms">To promote and highlighting development of Sarawak</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/TVS_HD_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260913120000 +0800" stop="20260913121500 +0800" channel="429.astro">
-    <title lang="ms">(L) TVS Tengahari</title>
-    <desc lang="ms">TVS Tengahari presents a comprehensive look at domestic and international news stories, providing viewers with an in-depth understanding of current affairs during the midday broadcast.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/TVS_HD_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20260913121500 +0800" stop="20260913123000 +0800" channel="429.astro">
-    <title lang="ms">TVS Music</title>
-    <desc lang="ms">TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
+  <programme start="20260913113000 +0800" stop="20260913123000 +0800" channel="429.astro">
+    <title lang="ms">(L) Terkini TVS: Konvensyen Khas Parti PBB Sarawak</title>
+    <desc lang="ms">Terkini TVS: Konvensyen Khas Parti PBB Sarawak Zon Utara, Stadium Tertutup, Miri Sarawak.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/TVS_HD_IVP_LAND_917x516.jpg"/>
   </programme>
   <programme start="20260913123000 +0800" stop="20260913130000 +0800" channel="429.astro">
@@ -17519,7 +17506,7 @@
   </programme>
   <programme start="20260913151500 +0800" stop="20260913154500 +0800" channel="429.astro">
     <title lang="ms">We're Hiring You</title>
-    <desc lang="ms">Li Zhiqiang,30,struggles to find work in Miri despite an extensive resume of short-term jobs.Rejected repeatedly,he drifts into self-doubt - until he encounters an elderly chef running a small laksa shop.</desc>
+    <desc lang="ms">Li Zhiqiang,30,struggles to find work in Miri despite an extensive résumé of short-term jobs.Rejected repeatedly,he drifts into self-doubt - until he encounters an elderly chef running a small laksa shop.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/TVS_HD_IVP_LAND_917x516.jpg"/>
   </programme>
   <programme start="20260913154500 +0800" stop="20260913160000 +0800" channel="429.astro">
@@ -28813,8 +28800,8 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000054X693537.jpg"/>
   </programme>
   <programme start="20260913133000 +0800" stop="20260913140000 +0800" channel="67.astro">
-    <title lang="ms">Digital Diary</title>
-    <desc lang="ms">A fun-filled talk show featuring lively anchors who interview stars and internet personalities.</desc>
+    <title lang="ms">Jodi Porutham</title>
+    <desc lang="ms">Jodi Porutham</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/SunAdithya_IVP_LAND_917x516.jpg"/>
   </programme>
   <programme start="20260913140000 +0800" stop="20260913143000 +0800" channel="67.astro">
@@ -28823,9 +28810,9 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/SunAdithya_IVP_LAND_917x516.jpg"/>
   </programme>
   <programme start="20260913143000 +0800" stop="20260913150000 +0800" channel="67.astro">
-    <title lang="ms">Times of Adithya</title>
-    <desc lang="ms">The show features a mix of celebrity interviews, cultural events, funny game segments with college students and couples.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000054X781699.jpg"/>
+    <title lang="ms">Yaadhum Oore</title>
+    <desc lang="ms">Yaadhum Oore</desc>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/SunAdithya_IVP_LAND_917x516.jpg"/>
   </programme>
   <programme start="20260913150000 +0800" stop="20260913153000 +0800" channel="67.astro">
     <title lang="ms">Master Piece</title>
@@ -31262,22 +31249,22 @@
     <desc lang="ms">The host covers the live political and top socio-economic headlines and various updates from India and worldwide.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/SunNews_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260913023000 +0800" stop="20260913050000 +0800" channel="477.astro">
+  <programme start="20260913023000 +0800" stop="20260913055500 +0800" channel="477.astro">
     <title lang="ms">Gulu Gulu</title>
     <desc lang="ms">When a group's plan to fake their friend's kidnapping goes awry, they seek help from a man of many talents. On the other hand, the abductors realise that they have held the wrong person hostage.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/KTV_HD_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260913050000 +0800" stop="20260913073000 +0800" channel="477.astro">
+  <programme start="20260913055500 +0800" stop="20260913073000 +0800" channel="477.astro">
     <title lang="ms">Kaadhal Pisase</title>
     <desc lang="ms">Arun, the son of a maid, pursues higher education as he aspires to make a big career. However, his life takes a drastic turn when several circumstances force him to become a criminal.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/KTV_HD_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260913073000 +0800" stop="20260913093000 +0800" channel="477.astro">
+  <programme start="20260913074000 +0800" stop="20260913094400 +0800" channel="477.astro">
     <title lang="ms">Kaadhalagi</title>
     <desc lang="ms">Nandhini and Thyagu, two childhood friends from different castes, fall in love with each other. However, when Raja discovers their relationship and kills her, her friends set out to seek justice.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/KTV_HD_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260913093000 +0800" stop="20260913103000 +0800" channel="477.astro">
+  <programme start="20260913094400 +0800" stop="20260913103000 +0800" channel="477.astro">
     <title lang="ms">Kaalai Thaeneer</title>
     <desc lang="ms">Stay tuned to this sequence of interesting movie clips.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/KTV_HD_IVP_LAND_917x516.jpg"/>
@@ -31592,12 +31579,12 @@
     <desc lang="ms">Tune into all-time favorite songs that made us swoon.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000570X677874.jpg"/>
   </programme>
-  <programme start="20260913033000 +0800" stop="20260913060000 +0800" channel="476.astro">
+  <programme start="20260913033000 +0800" stop="20260913061000 +0800" channel="476.astro">
     <title lang="ms">Ullasa Payanam</title>
     <desc lang="ms">Selvam's aunt raises him in a restricted environment for his own good. On a trip, Selvam escapes an abduction bid. He meets Mala, falls in love and also pretends to be poor since she hates rich men.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/SunLife_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260913060000 +0800" stop="20260913113000 +0800" channel="476.astro">
+  <programme start="20260913061000 +0800" stop="20260913113000 +0800" channel="476.astro">
     <title lang="ms">Songs</title>
     <desc lang="ms">Enjoy back to back songs from your favourite movies.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000570X677833.jpg"/>
@@ -31618,8 +31605,8 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000570X681370.jpg"/>
   </programme>
   <programme start="20260913140000 +0800" stop="20260913143000 +0800" channel="476.astro">
-    <title lang="ms">Daddy Arumugam Samayal</title>
-    <desc lang="ms">Watch this special cookery show for your viewing pleasure.</desc>
+    <title lang="ms">Sunday Galatta</title>
+    <desc lang="ms">Sunday Galatta</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/SunLife_IVP_LAND_917x516.jpg"/>
   </programme>
   <programme start="20260913143000 +0800" stop="20260913173000 +0800" channel="476.astro">
@@ -39634,27 +39621,27 @@
   </programme>
   <programme start="20260913135500 +0800" stop="20260913140000 +0800" channel="158.astro">
     <title lang="ms">Yang Sudi Tinggal Ep05</title>
-    <desc lang="ms">From national athlete to educator, discover Emily's story and how Astro is changing her future.</desc>
+    <desc lang="ms">From national athlete to educator, discover Emily’s story and how Astro is changing her future.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYOSS.jpg"/>
   </programme>
-  <programme start="20260913140000 +0800" stop="20260913153000 +0800" channel="158.astro">
+  <programme start="20260913140000 +0800" stop="20260913153200 +0800" channel="158.astro">
     <title lang="ms">Hi Saturday 2026 Ep35</title>
     <desc lang="ms">He Jiong teams up with Tan Jian Ci, Dylan Wang, and more to welcome surprise guests for hilarious games, and creative challenges. Laugh, learn, and enjoy positive vibes every weekend!</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KVGNT.jpg"/>
   </programme>
-  <programme start="20260913153000 +0800" stop="20260913171500 +0800" channel="158.astro">
+  <programme start="20260913153200 +0800" stop="20260913171700 +0800" channel="158.astro">
     <title lang="ms">Divas Hit The Road 2026 Ep01</title>
     <desc lang="ms">Traveling from Mexico, Peru, &amp; Argentina all the way south to Ushuia, the team experience the passion of Latin America amidst the changing seasons &amp; embark on a journey of cross-cultural exploration.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYWLC.jpg"/>
   </programme>
-  <programme start="20260913171500 +0800" stop="20260913180000 +0800" channel="158.astro">
+  <programme start="20260913171700 +0800" stop="20260913180000 +0800" channel="158.astro">
     <title lang="ms">Can I Cook For You? Season 2 Ep02</title>
     <desc lang="ms">Food critic Liu Yi Wei follow hosts Chen Zi Ming &amp; Hong Chen Yao to different cities &amp; invite local youths to chat about their social life, residence, hometown, love, family, career, &amp; life choices.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWUNZ.jpg"/>
   </programme>
   <programme start="20260913180000 +0800" stop="20260913183000 +0800" channel="158.astro">
     <title lang="ms">Journey To The Snack West Ep06</title>
-    <desc lang="ms">Spanning six episodes of culinary adventure, this series adopts the narrative framework of 'Journey to the West' to showcase the most raw and authentic folk culinary traditions along the Silk Road.</desc>
+    <desc lang="ms">Spanning six episodes of culinary adventure, this series adopts the narrative framework of ‘Journey to the West’ to showcase the most raw and authentic folk culinary traditions along the Silk Road.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KXZYX.jpg"/>
   </programme>
   <programme start="20260913183000 +0800" stop="20260913190000 +0800" channel="158.astro">
@@ -39679,13 +39666,13 @@
   </programme>
   <programme start="20260913202500 +0800" stop="20260913203500 +0800" channel="158.astro">
     <title lang="ms">Yang Sudi Tinggal Ep05</title>
-    <desc lang="ms">From national athlete to educator, discover Emily's story and how Astro is changing her future.</desc>
+    <desc lang="ms">From national athlete to educator, discover Emily’s story and how Astro is changing her future.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYOSS.jpg"/>
   </programme>
   <programme start="20260913203500 +0800" stop="20260913221500 +0800" channel="158.astro">
     <title lang="ms">Divas Hit The Road 2026 Ep02</title>
     <desc lang="ms">Traveling from Mexico, Peru, &amp; Argentina all the way south to Ushuia, the team experience the passion of Latin America amidst the changing seasons &amp; embark on a journey of cross-cultural exploration.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYWLC.jpg"/>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYWLD.jpg"/>
   </programme>
   <programme start="20260913221500 +0800" stop="20260913230000 +0800" channel="158.astro">
     <title lang="ms">Overdo Ep06</title>
@@ -39694,7 +39681,7 @@
   </programme>
   <programme start="20260913230000 +0800" stop="20260913233000 +0800" channel="158.astro">
     <title lang="ms">Journey To The Snack West Ep06</title>
-    <desc lang="ms">Spanning six episodes of culinary adventure, this series adopts the narrative framework of 'Journey to the West' to showcase the most raw and authentic folk culinary traditions along the Silk Road.</desc>
+    <desc lang="ms">Spanning six episodes of culinary adventure, this series adopts the narrative framework of ‘Journey to the West’ to showcase the most raw and authentic folk culinary traditions along the Silk Road.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KXZYX.jpg"/>
   </programme>
   <programme start="20260913233000 +0800" stop="20260914014800 +0800" channel="158.astro">
@@ -47432,12 +47419,12 @@
     <desc lang="ms">Treat yourself to a variety of great programmes that provide coverage of the world's most exciting cultural social and musical events.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1027X26268.jpg"/>
   </programme>
-  <programme start="20260913060300 +0800" stop="20260913063300 +0800" channel="382.astro">
+  <programme start="20260913060300 +0800" stop="20260913063200 +0800" channel="382.astro">
     <title lang="ms">The Great Era</title>
     <desc lang="ms">Record Times features a wide selection of outstanding Phoenix documentaries on a broad selection of topics and issues, capturing life as it unfolds.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_10000395_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260913063300 +0800" stop="20260913070300 +0800" channel="382.astro">
+  <programme start="20260913063200 +0800" stop="20260913070300 +0800" channel="382.astro">
     <title lang="ms">Dreamscapes, Architectural Wonders Ep496</title>
     <desc lang="ms">From simple, charming cottages, to lavish mansions and magnificent skyscrapers, this programme features architecture at its best and captures how it inspires us.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000395X581019.jpg"/>
@@ -47462,37 +47449,37 @@
     <desc lang="ms">Check the Phoenix Weather Forecasts for the major cities around the world.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1027X131646.jpg"/>
   </programme>
-  <programme start="20260913090300 +0800" stop="20260913094800 +0800" channel="382.astro">
+  <programme start="20260913090300 +0800" stop="20260913094700 +0800" channel="382.astro">
     <title lang="ms">News Times</title>
     <desc lang="ms">News Times tracks the storyline of current news and unmasks the subject with a wide use of documentaries.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000395X885626.jpg"/>
   </programme>
-  <programme start="20260913094800 +0800" stop="20260913100300 +0800" channel="382.astro">
+  <programme start="20260913094700 +0800" stop="20260913100200 +0800" channel="382.astro">
     <title lang="ms">My Hong Kong Story</title>
     <desc lang="ms">Share the stories of various Hong Kong dwellers - and be amazed by the charm of these ordinary, yet unique people and the city itself.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000395X609686.jpg"/>
   </programme>
-  <programme start="20260913100300 +0800" stop="20260913110000 +0800" channel="382.astro">
+  <programme start="20260913100200 +0800" stop="20260913105800 +0800" channel="382.astro">
     <title lang="ms">News on the Hour</title>
     <desc lang="ms">Provides live coverage of news and current affairs from around the world, bringing viewers the latest breaking news.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000395X26124.jpg"/>
   </programme>
-  <programme start="20260913110000 +0800" stop="20260913110300 +0800" channel="382.astro">
+  <programme start="20260913105800 +0800" stop="20260913110200 +0800" channel="382.astro">
     <title lang="ms">Phoenix Weather Forecast</title>
     <desc lang="ms">Check the Phoenix Weather Forecasts for the major cities around the world.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1027X131646.jpg"/>
   </programme>
-  <programme start="20260913110300 +0800" stop="20260913120300 +0800" channel="382.astro">
+  <programme start="20260913110200 +0800" stop="20260913120300 +0800" channel="382.astro">
     <title lang="ms">Premium Spectacular</title>
     <desc lang="ms">Treat yourself to a variety of great programmes that provide coverage of the world's most exciting cultural social and musical events.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1027X26268.jpg"/>
   </programme>
-  <programme start="20260913120300 +0800" stop="20260913130000 +0800" channel="382.astro">
+  <programme start="20260913120300 +0800" stop="20260913125900 +0800" channel="382.astro">
     <title lang="ms">Phoenix Midday Express</title>
     <desc lang="ms">Receive live coverage on breaking news events and current affairs from around the world.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1221X609590.jpg"/>
   </programme>
-  <programme start="20260913130000 +0800" stop="20260913130300 +0800" channel="382.astro">
+  <programme start="20260913125900 +0800" stop="20260913130300 +0800" channel="382.astro">
     <title lang="ms">Phoenix Weather Forecast</title>
     <desc lang="ms">Check the Phoenix Weather Forecasts for the major cities around the world.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1027X131646.jpg"/>
@@ -47517,12 +47504,12 @@
     <desc lang="ms">'X+' explores how technology changes our lives and future, stimulates audience's interest and enthusiasm for technology.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000395X869956.jpg"/>
   </programme>
-  <programme start="20260913150300 +0800" stop="20260913160000 +0800" channel="382.astro">
+  <programme start="20260913150300 +0800" stop="20260913155900 +0800" channel="382.astro">
     <title lang="ms">News on the Hour</title>
     <desc lang="ms">Provides live coverage of news and current affairs from around the world, bringing viewers the latest breaking news.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000395X26124.jpg"/>
   </programme>
-  <programme start="20260913160000 +0800" stop="20260913160300 +0800" channel="382.astro">
+  <programme start="20260913155900 +0800" stop="20260913160300 +0800" channel="382.astro">
     <title lang="ms">Phoenix Weather Forecast</title>
     <desc lang="ms">Check the Phoenix Weather Forecasts for the major cities around the world.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1027X131646.jpg"/>
@@ -47532,12 +47519,12 @@
     <desc lang="ms">In-depth political and economic commentary by senior host Shih Chi Ping, who analyzes the world's hottest topics and global trends from a unique point of view.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000395X727823.jpg"/>
   </programme>
-  <programme start="20260913163300 +0800" stop="20260913170300 +0800" channel="382.astro">
+  <programme start="20260913163300 +0800" stop="20260913170200 +0800" channel="382.astro">
     <title lang="ms">The Great Era</title>
     <desc lang="ms">Record Times features a wide selection of outstanding Phoenix documentaries on a broad selection of topics and issues, capturing life as it unfolds.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_10000395_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260913170300 +0800" stop="20260913180300 +0800" channel="382.astro">
+  <programme start="20260913170200 +0800" stop="20260913180300 +0800" channel="382.astro">
     <title lang="ms">Premium Spectacular</title>
     <desc lang="ms">Treat yourself to a variety of great programmes that provide coverage of the world's most exciting cultural social and musical events.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1027X26268.jpg"/>
@@ -47562,22 +47549,22 @@
     <desc lang="ms">From simple, charming cottages, to lavish mansions and magnificent skyscrapers, this programme features architecture at its best and captures how it inspires us.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000395X581019.jpg"/>
   </programme>
-  <programme start="20260913193300 +0800" stop="20260913203300 +0800" channel="382.astro">
+  <programme start="20260913193300 +0800" stop="20260913203200 +0800" channel="382.astro">
     <title lang="ms">Phoenix Super Doctors Ep403</title>
     <desc lang="ms">Hosted by Chinese traditional and western medicine experts and the very first 'AI doctor' ever, this series discusses and interprets common health topics as it combines approaches from both disciplines.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1027X327590.jpg"/>
   </programme>
-  <programme start="20260913203300 +0800" stop="20260913210300 +0800" channel="382.astro">
+  <programme start="20260913203200 +0800" stop="20260913210300 +0800" channel="382.astro">
     <title lang="ms">GBA Discovery Ep188</title>
     <desc lang="ms">Discover the latest trending events, people and achievements in the Greater Bay Area! Enjoy the unique charms of Guangzhou, Shenzhen, Hong Kong, Macau and more!</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000395X701688.jpg"/>
   </programme>
-  <programme start="20260913210300 +0800" stop="20260913215800 +0800" channel="382.astro">
+  <programme start="20260913210300 +0800" stop="20260913215700 +0800" channel="382.astro">
     <title lang="ms">Phoenix Evening Express</title>
     <desc lang="ms">This daily information programme reports on the latest economic, social and cultural affairs across the Asian continent.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1027X309950.jpg"/>
   </programme>
-  <programme start="20260913215800 +0800" stop="20260913220300 +0800" channel="382.astro">
+  <programme start="20260913215700 +0800" stop="20260913220300 +0800" channel="382.astro">
     <title lang="ms">Phoenix Weather Forecast</title>
     <desc lang="ms">Check the Phoenix Weather Forecasts for the major cities around the world.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1027X131646.jpg"/>
@@ -47587,22 +47574,17 @@
     <desc lang="ms">Take a journey to various places across China in this documentary to observe and learn more about the locals, their cultures, and their lifestyles.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000395X25313.jpg"/>
   </programme>
-  <programme start="20260913223300 +0800" stop="20260913224800 +0800" channel="382.astro">
-    <title lang="ms">My Hong Kong Story</title>
-    <desc lang="ms">Share the stories of various Hong Kong dwellers - and be amazed by the charm of these ordinary, yet unique people and the city itself.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000395X609686.jpg"/>
+  <programme start="20260913223300 +0800" stop="20260913233300 +0800" channel="382.astro">
+    <title lang="ms">The Life of Tung Chee-Hwa</title>
+    <desc lang="ms">The Life of Tung Chee-Hwa</desc>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_10000395_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260913224800 +0800" stop="20260913233300 +0800" channel="382.astro">
-    <title lang="ms">NEWS TIMES 552</title>
-    <desc lang="ms">News Times tracks the storyline of current news and unmasks the subject with a wide use of documentaries.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWZTY_series.jpg"/>
-  </programme>
-  <programme start="20260913233300 +0800" stop="20260914000300 +0800" channel="382.astro">
+  <programme start="20260913233300 +0800" stop="20260914000200 +0800" channel="382.astro">
     <title lang="ms">News Talk</title>
     <desc lang="ms">News Talk is packed with subjective, authoritative and unique facts, treating the viewer to a detailed, incisive and informative news feature.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1221X26132.jpg"/>
   </programme>
-  <programme start="20260914000300 +0800" stop="20260914003000 +0800" channel="382.astro">
+  <programme start="20260914000200 +0800" stop="20260914003000 +0800" channel="382.astro">
     <title lang="ms">Phoenix Intercontinental Express</title>
     <desc lang="ms">Phoenix Intercontinental Express is current affairs program that brings news around the world.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000395X780090.jpg"/>
@@ -47617,42 +47599,42 @@
     <desc lang="ms">Come on a cultural journey filled with spiritual and intellectual therapy that'll heighten your senses - and reshape your mental landscape.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1027X126378.jpg"/>
   </programme>
-  <programme start="20260914010300 +0800" stop="20260914020300 +0800" channel="382.astro">
+  <programme start="20260914010300 +0800" stop="20260914020200 +0800" channel="382.astro">
     <title lang="ms">Phoenix Super Doctors Ep403</title>
     <desc lang="ms">Hosted by Chinese traditional and western medicine experts and the very first 'AI doctor' ever, this series discusses and interprets common health topics as it combines approaches from both disciplines.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1027X327590.jpg"/>
   </programme>
-  <programme start="20260914020300 +0800" stop="20260914023300 +0800" channel="382.astro">
+  <programme start="20260914020200 +0800" stop="20260914023200 +0800" channel="382.astro">
     <title lang="ms">The Great Era</title>
     <desc lang="ms">Record Times features a wide selection of outstanding Phoenix documentaries on a broad selection of topics and issues, capturing life as it unfolds.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/ivp_default_10000395_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260914023300 +0800" stop="20260914030300 +0800" channel="382.astro">
+  <programme start="20260914023200 +0800" stop="20260914030200 +0800" channel="382.astro">
     <title lang="ms">Hong Kong Perspectives</title>
     <desc lang="ms">This programme interviews political figures, exploring ways to narrow social differences, provide direction and create new opportunities for Hong Kong development.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1027X384102.jpg"/>
   </programme>
-  <programme start="20260914030300 +0800" stop="20260914033300 +0800" channel="382.astro">
+  <programme start="20260914030200 +0800" stop="20260914033200 +0800" channel="382.astro">
     <title lang="ms">News Talk</title>
     <desc lang="ms">News Talk is packed with subjective, authoritative and unique facts, treating the viewer to a detailed, incisive and informative news feature.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1221X26132.jpg"/>
   </programme>
-  <programme start="20260914033300 +0800" stop="20260914040300 +0800" channel="382.astro">
+  <programme start="20260914033200 +0800" stop="20260914040200 +0800" channel="382.astro">
     <title lang="ms">Dreamscapes, Architectural Wonders Ep497</title>
     <desc lang="ms">From simple, charming cottages, to lavish mansions and magnificent skyscrapers, this programme features architecture at its best and captures how it inspires us.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000395X581019.jpg"/>
   </programme>
-  <programme start="20260914040300 +0800" stop="20260914043300 +0800" channel="382.astro">
+  <programme start="20260914040200 +0800" stop="20260914043300 +0800" channel="382.astro">
     <title lang="ms">Talk With World Leaders</title>
     <desc lang="ms">News Talk is packed with subjective, authoritative and unique facts, treating the viewer to a detailed, incisive and informative news feature.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/1027X26237.jpg"/>
   </programme>
-  <programme start="20260914043300 +0800" stop="20260914050300 +0800" channel="382.astro">
+  <programme start="20260914043300 +0800" stop="20260914050200 +0800" channel="382.astro">
     <title lang="ms">China Insight</title>
     <desc lang="ms">Take a journey to various places across China in this documentary to observe and learn more about the locals, their cultures, and their lifestyles.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000395X25313.jpg"/>
   </programme>
-  <programme start="20260914050300 +0800" stop="20260914051800 +0800" channel="382.astro">
+  <programme start="20260914050200 +0800" stop="20260914051800 +0800" channel="382.astro">
     <title lang="ms">My Hong Kong Story</title>
     <desc lang="ms">Share the stories of various Hong Kong dwellers - and be amazed by the charm of these ordinary, yet unique people and the city itself.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000395X609686.jpg"/>
@@ -112587,17 +112569,17 @@
     <desc lang="ms">Sorotan aksi-aksi menarik perlawanan AFF Women's Cup 2026: Tempat ke-3/4.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KXONS.jpg"/>
   </programme>
-  <programme start="20260913085000 +0800" stop="20260913120000 +0800" channel="235.astro">
+  <programme start="20260913085000 +0800" stop="20260913120500 +0800" channel="235.astro">
     <title lang="ms">(L) Cricket T20i (W): Japan lwn Malaysia</title>
     <desc lang="ms">(Langsung) Cricket Women's T20i Japan lwn Malaysia 2026 dari Jepun.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroArena_2024_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260913120000 +0800" stop="20260913130000 +0800" channel="235.astro">
+  <programme start="20260913120500 +0800" stop="20260913125900 +0800" channel="235.astro">
     <title lang="ms">Sorotan ISTAF Sepak Takraw WC 2026 Team: Akhir</title>
     <desc lang="ms">Sorotan aksi-aksi menarik ISTAF Sepak Takraw World Cup 2026 Team: Akhir.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KXAXY.jpg"/>
   </programme>
-  <programme start="20260913130000 +0800" stop="20260913140000 +0800" channel="235.astro">
+  <programme start="20260913125900 +0800" stop="20260913140000 +0800" channel="235.astro">
     <title lang="ms">Nadi Weekend</title>
     <desc lang="ms">Rancangan berita sukan hari minggu yang juga membawakan dari sudut berbeza sukan tempatan dan antarabangsa.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KVMYH.jpg"/>
@@ -116882,16 +116864,6 @@
     <desc lang="ms">Sebuah program realiti dan majalah sukan elektronik (e-sports) tempatan yang memaparkan pencarian bakat, ulasan kompetitif, perlawanan sengit, serta perkembangan landskap industri permainan video.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/Sukan_RTM_Poster_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260913001500 +0800" stop="20260913060000 +0800" channel="568.astro">
-    <title lang="ms">Astro Premier League 4</title>
-    <desc lang="ms">Thank You for watching the live Premier League 2026/27: Match Week 4: Crystal Palace vs Ipswich Town.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroPremierLeague4_2024_IVP_LAND_917x516.jpg"/>
-  </programme>
-  <programme start="20260913001500 +0800" stop="20260913060000 +0800" channel="570.astro">
-    <title lang="ms">Astro Premier League 5</title>
-    <desc lang="ms">Thank You for watching the live Premier League 2026/27: Match Week 4: Bournemouth vs Brentford.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroPremierLeague5_2024_IVP_LAND_917x516.jpg"/>
-  </programme>
   <programme start="20260913000000 +0800" stop="20260913001500 +0800" channel="543.astro">
     <title lang="ms">(L) Postshow</title>
     <desc lang="ms">LIVE: Catch team after match interviews, player team news and reports from around the grounds and expert comments and analysis from the Live Studio Team.</desc>
@@ -116912,22 +116884,17 @@
     <desc lang="ms">LIVE: Catch team after match interviews, player team news and reports from around the grounds and expert comments and analysis from the Live Studio Team.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/AstroGrandstand_2024_IVP_LAND_917x516.jpg"/>
   </programme>
-  <programme start="20260913030000 +0800" stop="20260913080000 +0800" channel="543.astro">
+  <programme start="20260913030000 +0800" stop="20260913083000 +0800" channel="543.astro">
     <title lang="ms">(L) UFC 2026: Silva vs Delgado</title>
     <desc lang="ms">LIVE: UFC 2026: Main Fight: Featherweight Bout: Jean Silva vs Jose Miguel Delgado, from Desert Diamond Arena, Glendale, AZ.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYKGH.jpg"/>
   </programme>
-  <programme start="20260913080000 +0800" stop="20260913083000 +0800" channel="543.astro">
-    <title lang="ms">UFC Connected: Josh Hokit</title>
-    <desc lang="ms">Super athlete Josh Hokit stories his journey from the NFL to the UFC and how he brought his showman personality into the Octagon.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KVVQE_series.jpg"/>
-  </programme>
-  <programme start="20260913083000 +0800" stop="20260913090000 +0800" channel="543.astro">
+  <programme start="20260913084500 +0800" stop="20260913091000 +0800" channel="543.astro">
     <title lang="ms">Total Combat 2026: Ep08</title>
     <desc lang="ms">Total Combat series features MMA, boxing, and other combat sports news, fight previews, and bout highlights.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYFIL.jpg"/>
   </programme>
-  <programme start="20260913090000 +0800" stop="20260913120000 +0800" channel="543.astro">
+  <programme start="20260913091000 +0800" stop="20260913120000 +0800" channel="543.astro">
     <title lang="ms">PL: Liverpool vs Fulham</title>
     <desc lang="ms">Premier League 2026/27: Match Week 4: Liverpool vs Fulham, from Anfield.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYOTF.jpg"/>
@@ -116939,7 +116906,7 @@
   </programme>
   <programme start="20260913150000 +0800" stop="20260913153500 +0800" channel="543.astro">
     <title lang="ms">World's Strongest Man 2024 - Episode 5</title>
-    <desc lang="ms">This year's World's Strongest Man competition will see the sport's most dominant strength athletes compete for the title.</desc>
+    <desc lang="ms">This year’s World’s Strongest Man competition will see the sport’s most dominant strength athletes compete for the title.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KQPFY.jpg"/>
   </programme>
   <programme start="20260913153500 +0800" stop="20260913161000 +0800" channel="543.astro">
@@ -117003,8 +116970,8 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KVWHR_series.jpg"/>
   </programme>
   <programme start="20260914053000 +0800" stop="20260914060000 +0800" channel="543.astro">
-    <title lang="ms">Vendee Arctique 2026: Final Program Hls</title>
-    <desc lang="ms">Vendee Arctique 2026: Final Program highlights from Les Sables d'Olonne, cross the Arctic Circle, at a location of their own choosing, and race back.</desc>
+    <title lang="ms">Vendée Arctique 2026: Final Program Hls</title>
+    <desc lang="ms">Vendée Arctique 2026: Final Program highlights from Les Sables d'Olonne, cross the Arctic Circle, at a location of their own choosing, and race back.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWAUH.jpg"/>
   </programme>
   <programme start="20260914060000 +0800" stop="20260914080000 +0800" channel="543.astro">
@@ -120027,17 +119994,17 @@
     <desc lang="ms">Highlights of the races of the hot mics of drivers from Nascar 2026: Radioactive Cook Out Southern 500 Darlington.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KXTAE.jpg"/>
   </programme>
-  <programme start="20260913020000 +0800" stop="20260913080000 +0800" channel="542.astro">
+  <programme start="20260913020000 +0800" stop="20260913081500 +0800" channel="542.astro">
     <title lang="ms">(L) UFC 2026: Silva vs Delgado</title>
     <desc lang="ms">LIVE: UFC 2026: Main Fight: Featherweight Bout: Jean Silva vs Jose Miguel Delgado, from Desert Diamond Arena, Glendale, AZ.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYKGH.jpg"/>
   </programme>
-  <programme start="20260913080000 +0800" stop="20260913090000 +0800" channel="542.astro">
+  <programme start="20260913084500 +0800" stop="20260913091500 +0800" channel="542.astro">
     <title lang="ms">WSL: Inside Pro Surfing - 2026 Tahiti Pro</title>
     <desc lang="ms">This series is a premium, all-access deep dive into each Championship Tour event. Through character-driven storylines and in-depth profiles, each episode connects fans to the tour and its star athletes.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYGZL.jpg"/>
   </programme>
-  <programme start="20260913090000 +0800" stop="20260913122000 +0800" channel="542.astro">
+  <programme start="20260913091500 +0800" stop="20260913122000 +0800" channel="542.astro">
     <title lang="ms">MotoGP San Marino: Free Practice 2/MotoGP Qualifying 1 &amp; 2</title>
     <desc lang="ms">MotoGP 2026: San Marino: Moto3, Moto2 &amp; MotoGP - Free Practice 2/MotoGP Qualifying 1 &amp; 2, Round 14 Red Bull GP Of San Marino, from Misano World Circuit Marco Simoncelli.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KXEAM.jpg"/>
@@ -120402,12 +120369,12 @@
     <desc lang="ms">Catch the live broadcast of SRO Japan Cup 2026: Suzuka International Circuit on 13th Sep 2026.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYUUZ.jpg"/>
   </programme>
-  <programme start="20260913075500 +0800" stop="20260913093000 +0800" channel="280.astro">
+  <programme start="20260913075500 +0800" stop="20260913100000 +0800" channel="280.astro">
     <title lang="ms">(L) SRO Japan Cup: Suzuka International Circuit: Race 2</title>
     <desc lang="ms">LIVE: SRO Japan Cup 2026: Rd 8: Suzuka International Circuit: Race 2, from Japan.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYBPN.jpg"/>
   </programme>
-  <programme start="20260913093000 +0800" stop="20260913111500 +0800" channel="280.astro">
+  <programme start="20260913100000 +0800" stop="20260913111500 +0800" channel="280.astro">
     <title lang="ms">Intercontinental GT Challenge 2026: Suzuka 1000Km</title>
     <desc lang="ms">Catch the live broadcast of Intercontinental GT Challenge 2026: Suzuka 1000Km on 13th Sep 2026.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYUVA.jpg"/>
@@ -123382,17 +123349,12 @@
     <desc lang="ms">KLPGA Tour 2026: BC Card-Hankyung the 48th KLPGA Championship 2026 tournament held at Fortune Hills Country Club in Pocheon, South Korea.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWPAS_series.jpg"/>
   </programme>
-  <programme start="20260913090000 +0800" stop="20260913130000 +0800" channel="189.astro">
+  <programme start="20260913090000 +0800" stop="20260913134000 +0800" channel="189.astro">
     <title lang="ms">(L) SONY JLPGA Championship Day 3</title>
     <desc lang="ms">LIVE: SONY JLPGA Championship 2026 tournament held at Katayamazu Golf Club (Hakusan Course), Kaga City, Ishikawa Prefecture, Japan.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KYNXT.jpg"/>
   </programme>
-  <programme start="20260913130000 +0800" stop="20260913133000 +0800" channel="189.astro">
-    <title lang="ms">HotelPlanner Tour Series Hls</title>
-    <desc lang="ms">The Challenge Tour, currently titled as the HotelPlanner Tour for sponsorship reasons, the second-tier men's professional golf tour in Europe.</desc>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWBEK.jpg"/>
-  </programme>
-  <programme start="20260913133000 +0800" stop="20260913140000 +0800" channel="189.astro">
+  <programme start="20260913134000 +0800" stop="20260913140000 +0800" channel="189.astro">
     <title lang="ms">Husqvarna British Masters Hls</title>
     <desc lang="ms">Husqvarna British Masters tournament highlights from The Belfry Hotel &amp; Resort, Sutton Coldfield, England.</desc>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KVPEW.jpg"/>

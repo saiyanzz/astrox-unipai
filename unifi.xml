@@ -276,18 +276,6 @@
     <display-name>beIN SPORTS 4</display-name>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/C0FFC072-D51A-4676-B232-F1C06BFA87D1/0-16x9.png?width=500"/>
   </channel>
-  <programme start="20260905233000 +0800" stop="20260906000000 +0800" channel="inspirasi.unifi">
-    <title lang="ms">TERBAIK DARI JALANAN</title>
-    <desc lang="ms">Ikuti Suffren dan Banni dalam jelajah mereka menikmati makanan-makanan terbaik dari gerai, warung dan kedai kaki lima. Untuk episod kali ini, mereka akan pergi ke Station Nasi Kerabu, Bilal Nasi Kandar dan Calisto.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/571B75B0-7857-425F-BB88-9D8E12E7903B/0-16x9.png?width=500"/>
-    <catchup-id>airing-inspirasi-2026-09-05-23:30</catchup-id>
-  </programme>
-  <programme start="20260906000000 +0800" stop="20260906010000 +0800" channel="inspirasi.unifi">
-    <title lang="ms">GEAR SHOW</title>
-    <desc lang="ms">Bersama kumpulan Empty Page membincangkan peralatan muzik serta tips penggunaan dan penjagaan untuk semua peringkat (pemula hingga profesional) dan juga review BC Rich 2x, Tobe Kepma Acoustic Guitar &amp; Kepma F1SG.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/571B75B0-7857-425F-BB88-9D8E12E7903B/0-16x9.png?width=500"/>
-    <catchup-id>airing-inspirasi-2026-09-06-00:00</catchup-id>
-  </programme>
   <programme start="20260906010000 +0800" stop="20260906013000 +0800" channel="inspirasi.unifi">
     <title lang="ms">1001 RESEPI PERIUK NASI</title>
     <desc lang="ms">Saksikan pelbagai cara menyediakan masak kegemaran semua dengan hanya mengunakan Periuk Nasi sahaja. Dalam episod ini Danny Aidil akan menyediakan Tinaktak, Kelaguen Uhang &amp; Latiya.</desc>
@@ -3738,18 +3726,6 @@
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/571B75B0-7857-425F-BB88-9D8E12E7903B/0-16x9.png?width=500"/>
     <catchup-id>airing-inspirasi-2026-09-20-00:00</catchup-id>
   </programme>
-  <programme start="20260905230000 +0800" stop="20260906000000 +0800" channel="sensasi.unifi">
-    <title lang="ms">Misteri Mona</title>
-    <desc lang="ms">Farah mula bertindak untuk menyiasat Dr. Nadeem dan ubat-ubatan Anom. Dia meminta bantuan temannya, Ikmal, untuk memeriksa kandungan ubat tersebut, mencetuskan keraguan tentang profesionalisme Dr. Nadeem.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/8F641B7A-CC55-497E-9C73-B1F10ADA7541/0-16x9.png?width=500"/>
-    <catchup-id>airing-sensasi-2026-09-05-23:00</catchup-id>
-  </programme>
-  <programme start="20260906000000 +0800" stop="20260906020000 +0800" channel="sensasi.unifi">
-    <title lang="ms">7-24</title>
-    <desc lang="ms">Anggara dan Aini merupakan pasangan suami isteri yang hidup bahagia. Namun, menjelang ulang tahun perkahwinan mereka, Aini disahkan menghidap penyakit otak yang menyebabkan dia kehilangan ingatan secara berperingkat sehingga tidak lagi mengenali suaminya sendiri. Dalam tempoh yang semakin singkat, Anggara berusaha mempertahankan cinta mereka sambil menemani Aini menghadapi detik-detik paling sukar dalam hidupnya. Selepas pemergian Aini, sebuah rakaman video yang ditinggalkannya mendedahkan rahsia yang mengubah kehidupan Anggara buat selama-lamanya.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/8F641B7A-CC55-497E-9C73-B1F10ADA7541/0-16x9.png?width=500"/>
-    <catchup-id>airing-sensasi-2026-09-06-00:00</catchup-id>
-  </programme>
   <programme start="20260906020000 +0800" stop="20260906030000 +0800" channel="sensasi.unifi">
     <title lang="ms">Another Love</title>
     <desc lang="ms">Leyla melawat sebuah kafe yang tenang di mana dia pernah duduk bersama Kenan. Seorang lelaki duduk di meja, membaca buku yang sama yang disukai Kenan. Mata mereka bertemu. Jeda. Pengiktirafan. Permulaan baru? Pudar kepada hitam.</desc>
@@ -5958,18 +5934,6 @@
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/8F641B7A-CC55-497E-9C73-B1F10ADA7541/0-16x9.png?width=500"/>
     <catchup-id>airing-sensasi-2026-09-20-00:00</catchup-id>
   </programme>
-  <programme start="20260905220000 +0800" stop="20260906000000 +0800" channel="degup.unifi">
-    <title lang="ms">Spirit Whisker: The Revenant</title>
-    <desc lang="ms">Seorang anak sulung keluarga kaya yang telah meninggal dunia tiba-tiba hidup semula selepas seekor kucing hitam misteri melompat ke atas mayatnya, yang membawa kepada kelakuannya yang pelik dan ganas yang menyebabkan keluarga itu huru-hara dan menimbulkan rahsia gelap di kalangan mereka.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/07A79742-0FA2-4DD8-8F98-929157AE96DF/0-16x9.png?width=500"/>
-    <catchup-id>airing-degup-2026-09-05-22:00</catchup-id>
-  </programme>
-  <programme start="20260906000000 +0800" stop="20260906010000 +0800" channel="degup.unifi">
-    <title lang="ms">Hilang Kasyorga EP5</title>
-    <desc lang="ms">Rodi diburu polis selepas membunuh Rajoo demi menyelamatkan ibunya, Juita, yang akhirnya terbunuh. Kesnya jadi sensasi media, mengangkat isu ketidakadilan sosial terhadap anak jalanan seperti Kasyorga.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/07A79742-0FA2-4DD8-8F98-929157AE96DF/0-16x9.png?width=500"/>
-    <catchup-id>airing-degup-2026-09-06-00:00</catchup-id>
-  </programme>
   <programme start="20260906010000 +0800" stop="20260906030000 +0800" channel="degup.unifi">
     <title lang="ms">13 Exorcism</title>
     <desc lang="ms">Sebuah filem yang diilhamkan oleh beberapa kes eksorsisme yang berdaftar di Sepanyol. Laura ialah seorang gadis berumur 16 tahun yang ditekan oleh persekitarannya dengan ibu bapanya ialah Tomás, seorang lelaki lemah lembut tanpa watak, dan Carmen, seorang fanatik Katolik yang percaya kepada Tuhan yang menghukum dan yang sentiasa menekan Laura serta abangnya Jesús untuk terus berdoa.</desc>
@@ -7433,16 +7397,6 @@
     <desc lang="ms">Seorang pembunuh upahan sedang menjejakinya lalu Black menyedari masanya dalam badan Malik semakin suntuk. Dia mesti menamatkan misinya dengan cepat dan satu-satunya harapan yang dia ada adalah menyakinkan Sofia untuk membantunya. Dia terjumpa sebuah bilik rahsia di dalam rumah Malik di mana tersimpan barang-barang yang jelas sekali disorok oleh Malik. Sementara itu, Sofia nampak satu pembunuhan bakal berlaku yang mengganggu perasaannya sehingga merangsang dia untuk bertindak. Dia memujuk Black untuk pulang ke kampung halaman mereka di Seri Setia untuk menyiasat kes itu. Anehnya, penyiasatan Borhan ke atas kes Nurul Najwa juga membawanya ke Seri Setia. Di sana, dia ketemu semula rakan sekerja lamanya, yang menyimpan rahsia tentang kes dingin yang berlaku 20 tahun lalu.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/07A79742-0FA2-4DD8-8F98-929157AE96DF/0-16x9.png?width=500"/>
     <catchup-id>airing-degup-2026-09-20-00:00</catchup-id>
-  </programme>
-  <programme start="20260905230000 +0800" stop="20260906000000 +0800" channel="tv1.unifi">
-    <title lang="ms">Diari Rawat 2026</title>
-    <desc lang="ms">Saksikan perbincangan bersama pakar kesihatan dengan isu-isu kesihatan terkini dalam Diari Rawat.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F01074B2-F6DD-441B-9477-1DF50C081978/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260906000000 +0800" stop="20260906003000 +0800" channel="tv1.unifi">
-    <title lang="ms">BERITA TENGAH MALAM</title>
-    <desc lang="ms">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F01074B2-F6DD-441B-9477-1DF50C081978/0-16x9.png?width=500"/>
   </programme>
   <programme start="20260906003000 +0800" stop="20260906013000 +0800" channel="tv1.unifi">
     <title lang="ms">Hatimu Aisyah</title>
@@ -10453,11 +10407,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F01074B2-F6DD-441B-9477-1DF50C081978/0-16x9.png?width=500"/>
   </programme>
-  <programme start="20260905223000 +0800" stop="20260906003000 +0800" channel="tv2.unifi">
-    <title lang="ms">5 Hari Kita Bertemu</title>
-    <desc lang="ms">Adrian menghabiskan 12 hari cutinya ke Korea untuk mengenali Raisyah, seorang pelajar Malaysia yang dikenalinya melalui laman sosial. Namun, Raisyah yang tidak yakin dengan dirinya telah meminta Izara menyamar menjadi dirinya untuk bertemu Adrian. Saat timbulnya perasaan cinta Adrian pada Raisyah (penyamar), Raisyah sebenar muncul hingga menimbulkan kekeliruan kepada Adrian.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/907F5B90-0688-4EC2-ABEF-A69F7C842287/0-16x9.png?width=500"/>
-  </programme>
   <programme start="20260906003000 +0800" stop="20260906013000 +0800" channel="tv2.unifi">
     <title lang="ms">Pelangi Petang</title>
     <desc lang="ms">Drama bersiri yang memaparkan tentang hubungan kekeluargaan, persahabatan dan percintaan.</desc>
@@ -12667,16 +12616,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <title lang="ms">Pulang Yang Dirindui</title>
     <desc lang="ms">Kisah seorang pemuda bernama Zahim yang terpaksa menyamar sebagai anak kepada Zaiton atau Mak Ton yang diambil dari rumah orang-orang tua demi untuk membahagiakan seorang ibu yang terlalu merindui anak-anaknya. Mak Ton pernah koma semasa berada di rumah kebajikan . Akibatnya, dia hilang ingatan sehingga tidak dapat mengigati wajah tiga orang anaknya.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/907F5B90-0688-4EC2-ABEF-A69F7C842287/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260905220000 +0800" stop="20260906000000 +0800" channel="tv3.unifi">
-    <title lang="ms">DIA KEMBARKU</title>
-    <desc lang="ms">Hasil perkahwinan Datuk Jamal dan isterinya Datin Marlia, mereka dikurniakan sepasang anak kembar perempuan dinamakan Amira dan Amina. Mak Kiah, pembantu rumah telah mendidik Amina dengan ilmu agama.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260906000000 +0800" stop="20260906003000 +0800" channel="tv3.unifi">
-    <title lang="ms">NIGHTLINE (2026/2027)</title>
-    <desc lang="ms">NIGHTLINE (2026/2027)</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=500"/>
   </programme>
   <programme start="20260906003000 +0800" stop="20260906013000 +0800" channel="tv3.unifi">
     <title lang="ms">WOW SHOP</title>
@@ -14968,16 +14907,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">NIGHTLINE (2026/2027)</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=500"/>
   </programme>
-  <programme start="20260905233000 +0800" stop="20260906000000 +0800" channel="didiktv.unifi">
-    <title lang="ms">MARI BERCERITA</title>
-    <desc lang="ms">Sebuah rancangan yang akan mengupas novel-novel bagi Bahasa Inggeris dan Bahasa Malaysia dengan lebih mendalam. Episod ini Hafizul mengupas novel grafik bagi pelajar di Tahun 6 yang bertajuk STORY WORLD - AKBAR'S DREAM.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4504543C-34AB-456E-940F-72431972DC9C/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260906000000 +0800" stop="20260906070000 +0800" channel="didiktv.unifi">
-    <title lang="ms">HOT FM@ntv7 2026</title>
-    <desc lang="ms">HOT FM@ntv7 2026</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4504543C-34AB-456E-940F-72431972DC9C/0-16x9.png?width=500"/>
-  </programme>
   <programme start="20260906070000 +0800" stop="20260906073000 +0800" channel="didiktv.unifi">
     <title lang="ms">DINO TRAINERS</title>
     <desc lang="ms">DEWAN NAGA BERANI / MAHARAJA LUAR KAWALAN. Artchie, Carol, Howell dan Hardy tersesat di kawasan yang tidak diketahui dan muncul dinosaur Maharaja Tyrannosaurus (Tyra).  Mereka dalam bahaya kerana semua dinosaur mengikut arahan Maharaja Tyra.</desc>
@@ -17253,11 +17182,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">HOT FM@ntv7 2026</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4504543C-34AB-456E-940F-72431972DC9C/0-16x9.png?width=500"/>
   </programme>
-  <programme start="20260905233000 +0800" stop="20260906003000 +0800" channel="8tv.unifi">
-    <title lang="ms">HEALING HEROES</title>
-    <desc lang="ms">Kian Heng serba salah kerana You Xiao dan Yi Ge sama-sama ingin mengambil cuti panjang ketika Jabatan Pesakit Luar sedang mengalami kekurangan kakitangan yang kritikal. Walau bagaimana pun, Kian Heng meluluskan cuti mereka berdua.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9C66E114-6607-4EB2-9F11-DE0F25C161EE/0-16x9.png?width=500"/>
-  </programme>
   <programme start="20260906003000 +0800" stop="20260906013000 +0800" channel="8tv.unifi">
     <title lang="ms">HEALING HEROES</title>
     <desc lang="ms">Imbasan CT pada Jin Kok tidak menunjukkan ketumbuhan tumor dalam otaknya. Yi Shi mencadangkan suaminya berjumpa Dr King, seorang pakar psikologi, tentang keadaannya. Namun Jin Kok menolak mentah-mentah.</desc>
@@ -18872,16 +18796,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <title lang="ms">HEALING HEROES</title>
     <desc lang="ms">Jin Kok telah menyesuaikan dirinya dengan baik di pusat jagaan harian demensia. Yi Shi bersetuju untuk kembali bekerja jika keadaan Jin Kok bertambah baik ekoran pujukan oleh Jia Cai. Ren Hui kecewa dengan keadaan penyakit matanya</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9C66E114-6607-4EB2-9F11-DE0F25C161EE/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260905233000 +0800" stop="20260906000000 +0800" channel="tv9.unifi">
-    <title lang="ms">HERO OVEN 2017</title>
-    <desc lang="ms">Episod ini seramai 20 peserta beradu dalam cabaran pastri menyediakan Pyai Berlauk dalam masa 45 minit. Dinilai oleh Cef Fikree dan Cef Sarah, hanya 12 peserta terbaik yang layak mara demi memburu gelaran Hero Oven.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/01A5D01A-1DAE-4E0F-8003-0B570E9F474E/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260906000000 +0800" stop="20260906010000 +0800" channel="tv9.unifi">
-    <title lang="ms">WOW SHOP</title>
-    <desc lang="ms">WOW SHOP</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/01A5D01A-1DAE-4E0F-8003-0B570E9F474E/0-16x9.png?width=500"/>
   </programme>
   <programme start="20260906010000 +0800" stop="20260906015000 +0800" channel="tv9.unifi">
     <title lang="ms">WOW SHOP</title>
@@ -21127,18 +21041,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <title lang="ms">WOW SHOP</title>
     <desc lang="ms">WOW SHOP</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/01A5D01A-1DAE-4E0F-8003-0B570E9F474E/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260905230000 +0800" stop="20260906000000 +0800" channel="salamhd.unifi">
-    <title lang="ms">Superhero Hati</title>
-    <desc lang="ms">Akasyah terkejut dengan pengakuan itu. Lalu dia mengingatkan Suhana bahawa sebenarnya dia marahkan Suhana kerana dia tahu Suhana telah menipunya pada ketika itu. Sewaktu Akasyah mengajak Suhana pergi tengok wayang, Suhana kata dia perlu balik kampung, sedangkan dia tahu sebenarnya Suhana keluar dengan Zul pada hari itu. Perbandingan memori itu membuatkan mereka sedar bahawa mereka telah dipermainkan oleh Zaza sejak dari zaman kolej lagi.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/1CE8DFF2-DF3E-4EFD-8D01-3D261D0890DD/0-16x9.png?width=500"/>
-    <catchup-id>airing-salamhd-2026-09-05-23:00</catchup-id>
-  </programme>
-  <programme start="20260906000000 +0800" stop="20260906010000 +0800" channel="salamhd.unifi">
-    <title lang="ms">Mr Millennium</title>
-    <desc lang="ms">Kini Jamil berada di zaman moden, Jamil pelik melihat apa yang ada didepannya. Dia memandang sekeliling dan melihat bangunan yang tinggi berada di merata-rata dan Jamil menjadi takut apabila dia melihat jalanraya yang sesak dengan kereta. Jamil jadi makin pelik dengan dunia moden ini, orang sekeliling memandangnya serong, mana tidaknya dengan pakaian zaman 60 an, segalanya sangat berbeza dengan zaman moden. Bermulalah kehidupan Jamil di zaman serba canggih yang jauh dari kehidupannya di kampung. Berbekalkan sifat semula jadinya yang lurus bendul, Jamil mahu hidup di zaman moden ini.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/1CE8DFF2-DF3E-4EFD-8D01-3D261D0890DD/0-16x9.png?width=500"/>
-    <catchup-id>airing-salamhd-2026-09-06-00:00</catchup-id>
   </programme>
   <programme start="20260906010000 +0800" stop="20260906023000 +0800" channel="salamhd.unifi">
     <title lang="ms">Rumah Bertangga Lumut</title>
@@ -24932,16 +24834,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/1CE8DFF2-DF3E-4EFD-8D01-3D261D0890DD/0-16x9.png?width=500"/>
     <catchup-id>airing-salamhd-2026-09-20-00:00</catchup-id>
   </programme>
-  <programme start="20260905230000 +0800" stop="20260906000000 +0800" channel="tvalhijrahhd.unifi">
-    <title lang="ms">Assalamualaikum Biz</title>
-    <desc lang="ms">Slot khusus program Assalamualaikum memaparkan usaha pembinaan masjid-masjid, institusi pendidikan dan badan-badan kemanusiaan.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F4935E21-02B4-4697-BEC4-671EB6034217/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260906000000 +0800" stop="20260906010000 +0800" channel="tvalhijrahhd.unifi">
-    <title lang="ms">Siaran Langsung Madinah (L)</title>
-    <desc lang="ms">Rancangan yang membawakan info-info ,hal ehwal semasa dan paparan keadaan terkini serta aktiviti persekitaran di Masjidil Haram Mekah dan Madinah.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F4935E21-02B4-4697-BEC4-671EB6034217/0-16x9.png?width=500"/>
-  </programme>
   <programme start="20260906010000 +0800" stop="20260906013000 +0800" channel="tvalhijrahhd.unifi">
     <title lang="ms">Reflections</title>
     <desc lang="ms">Reflection rancangan yang menyentuh amalan kehidupan seseorang muslim untuk dijadikan teladan dan panduan dalam mengejar redha Allah.</desc>
@@ -27352,11 +27244,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">Rancangan yang membawakan info-info ,hal ehwal semasa dan paparan keadaan terkini serta aktiviti persekitaran di Masjidil Haram Mekah dan Madinah.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F4935E21-02B4-4697-BEC4-671EB6034217/0-16x9.png?width=500"/>
   </programme>
-  <programme start="20260905230000 +0800" stop="20260906010000 +0800" channel="siar.unifi">
-    <title lang="ms">Darah Satria</title>
-    <desc lang="ms">Berpangkat Leftenan Muda, Ariff terlibat dalam operasi memburu komunis di hutan. Mempunyai seorang isteri bernama Rafidah, namun terpaksa ditinggalkannya bersama ibu bapanya kerana sibuk menjalankan operasi. Dalam satu operasi menentang komunis, Ariff bersama anak buahnya melalui kesukaran yang menyebabkan Ariff mengalami kecederaan manakala salah seorang daripada mereka terkorban.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F101B330-8D9C-4670-9DE3-2C53E8866EA0/0-16x9.png?width=500"/>
-  </programme>
   <programme start="20260906010000 +0800" stop="20260906030000 +0800" channel="siar.unifi">
     <title lang="ms">Tipu Kanan Tipu Kiri</title>
     <desc lang="ms">Rudy, seorang jejaka tampan yang memiliki segalanya, Isterinya bernama Wulan, seorang penyanyi terkenal di Indonesia. Malangnya dalam syarat kontrak rakamannya, Wulan tidak dibenarkan untuk berkahwin. Untuk menyembunyikan perkahwinan mereka, Rudy dan Wulan berpindah ke Malaysia. Pelbagai kejadian lucu berlaku akibat kekeliruan dan suasana kelam kabut yang terjadi akibat penipuan mereka berdua.</desc>
@@ -28341,16 +28228,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <title lang="ms">Darah Satria</title>
     <desc lang="ms">Berpangkat Leftenan Muda, Ariff terlibat dalam operasi memburu komunis di hutan. Mempunyai seorang isteri bernama Rafidah, namun terpaksa ditinggalkannya bersama ibu bapanya kerana sibuk menjalankan operasi. Dalam satu operasi menentang komunis, Ariff bersama anak buahnya melalui kesukaran yang menyebabkan Ariff mengalami kecederaan manakala salah seorang daripada mereka terkorban.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F101B330-8D9C-4670-9DE3-2C53E8866EA0/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260905233000 +0800" stop="20260906000000 +0800" channel="tvs.unifi">
-    <title lang="ms">Setenang Mata Memandang</title>
-    <desc lang="ms">Travelogue program that follows two hosts on their journey to discover hidden gems in Sarawak's natural beauty, including national parks, mountains, valleys, lakes, rivers, waterfalls, and islands.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/2BE028DB-08C8-437F-BB78-93DEC3F03786/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260906000000 +0800" stop="20260906010000 +0800" channel="tvs.unifi">
-    <title lang="ms">Jendela Hati</title>
-    <desc lang="ms">Drama ini mengisahkan konflik rumah tangga suami isteri di mana kehidupan Luqman yang dipaksa berkahwin dengan Farah yang merupakan pasangan kembar kepada arwah isterinya, Sarah.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/2BE028DB-08C8-437F-BB78-93DEC3F03786/0-16x9.png?width=500"/>
   </programme>
   <programme start="20260906010000 +0800" stop="20260906020000 +0800" channel="tvs.unifi">
     <title lang="ms">Barbarossa</title>
@@ -32407,18 +32284,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">Drama ini mengisahkan konflik rumah tangga suami isteri di mana kehidupan Luqman yang dipaksa berkahwin dengan Farah yang merupakan pasangan kembar kepada arwah isterinya, Sarah.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/2BE028DB-08C8-437F-BB78-93DEC3F03786/0-16x9.png?width=500"/>
   </programme>
-  <programme start="20260905220000 +0800" stop="20260906000000 +0800" channel="duniasinemahd.unifi">
-    <title lang="ms">Me VS Mami</title>
-    <desc lang="ms">Mira terpaksa menemani ibunya, Maudy, dalam satu perjalanan jauh untuk menziarahi neneknya yang sedang tenat. Sepanjang perjalanan, hubungan mereka yang sering dipenuhi pertengkaran diuji melalui pelbagai cabaran dan pertemuan baharu, sehingga mereka akhirnya saling memahami dan mengeratkan hubungan sebagai ibu dan anak.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/66BD76C5-BEFD-476A-9688-87AFCE8E8526/0-16x9.png?width=500"/>
-    <catchup-id>airing-duniasinemahd-2026-09-05-22:00</catchup-id>
-  </programme>
-  <programme start="20260906000000 +0800" stop="20260906003000 +0800" channel="duniasinemahd.unifi">
-    <title lang="ms">One, Two, Trivia</title>
-    <desc lang="ms">Sebuah program yang merungkai fakta-fakta menarik yang tersimpan dalam filem-filem klasik tempatan</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/66BD76C5-BEFD-476A-9688-87AFCE8E8526/0-16x9.png?width=500"/>
-    <catchup-id>airing-duniasinemahd-2026-09-06-00:00</catchup-id>
-  </programme>
   <programme start="20260906003000 +0800" stop="20260906023000 +0800" channel="duniasinemahd.unifi">
     <title lang="ms">Kasih Seorang Ayah</title>
     <desc lang="ms">Husin yang baru memulakan pekerjaan baharu dikejutkan oleh panggilan isterinya, Aminah—ayahnya, Pak Yusof, tidak pulang sejak keluar pagi tadi. Setelah mencari ke merata tempat, Husin akhirnya menemui Pak Yusof di sebuah perhentian bas dalam keadaan keliru dan ketakutan. Pak Yusof tidak ingat jalan pulang, malah tidak tahu di mana dia berada. Hairan dengan perubahan sikap ayahnya, Husin membawa beliau ke klinik. Di situlah mereka menerima berita yang mengejutkan: Pak Yusof menghidap Alzheimer. Dari saat itu, bermulalah perjalanan penuh cabaran buat Husin dan keluarganya dalam menjaga insan yang mereka sayangi.</desc>
@@ -33750,18 +33615,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">Sebuah kisah cinta terlarang antara Amir, bekas ahli mafia, dan Aisyah, seorang pelajar seni. Amir ingin memulakan hidup baru sebagai pemuzik jalanan, dan pada suatu hari, dia bertemu dengan Aisyah yang juga berasal dari keluarga kaya.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/66BD76C5-BEFD-476A-9688-87AFCE8E8526/0-16x9.png?width=500"/>
     <catchup-id>airing-duniasinemahd-2026-09-20-00:00</catchup-id>
-  </programme>
-  <programme start="20260905230000 +0800" stop="20260906000000 +0800" channel="pesonahd.unifi">
-    <title lang="ms">Pestaria</title>
-    <desc lang="ms">Pelbagai warna muzik penuh dengan sensasi dengan sentuhan budaya! Bekerjasama dan bersatu di atas pentas dengan barisan bintang terkenal.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4BDA018A-6442-4561-85D4-CD8333CA2560/0-16x9.png?width=500"/>
-    <catchup-id>airing-pesonahd-2026-09-05-23:00</catchup-id>
-  </programme>
-  <programme start="20260906000000 +0800" stop="20260906010000 +0800" channel="pesonahd.unifi">
-    <title lang="ms">Saleha</title>
-    <desc lang="ms">Saleha mengisahkan seorang gadis baik hati yang ditinggalkan oleh ayahnya dan dibesarkan oleh nenek. Selepas diculik dan kehilangan neneknya, dia dipersalahkan dan dihalau oleh keluarganya. Dengan semangat dan keimanan yang teguh, Saleha memulakan hidup baru di Jakarta sambil menyembunyikan penyakit serius.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4BDA018A-6442-4561-85D4-CD8333CA2560/0-16x9.png?width=500"/>
-    <catchup-id>airing-pesonahd-2026-09-06-00:00</catchup-id>
   </programme>
   <programme start="20260906010000 +0800" stop="20260906023000 +0800" channel="pesonahd.unifi">
     <title lang="ms">Kenapa Kisah Cintaku Tak Seindah Tulisanku?</title>
@@ -35665,12 +35518,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4BDA018A-6442-4561-85D4-CD8333CA2560/0-16x9.png?width=500"/>
     <catchup-id>airing-pesonahd-2026-09-20-00:00</catchup-id>
   </programme>
-  <programme start="20260905234000 +0800" stop="20260906014000 +0800" channel="tvnmovieshd.unifi">
-    <title lang="ms">71: INTO THE FIRE</title>
-    <desc lang="ms">71 student-soldiers fight an impossible war against the elite 766 Commando Brigade and turn the tide of the Korean War.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/8D56EE30-95BC-4047-B13F-CF2E5C5F84F8/0-16x9.png?width=500"/>
-    <catchup-id>airing-tvnmovieshd-2026-09-05-23:40</catchup-id>
-  </programme>
   <programme start="20260906014000 +0800" stop="20260906031000 +0800" channel="tvnmovieshd.unifi">
     <title lang="ms">ACTIONHERO</title>
     <desc lang="ms">A college student dreaming to be an action star discovered an admission fraud. He decided to make an action film of him against the corrupted professor.</desc>
@@ -36792,12 +36639,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">A legendary treasure hidden in Seoul's royal tomb sparks fierce rivalry as the exacavators and others with secret agendas race to outwit each other for the king's relics. Who will prevail?</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/8D56EE30-95BC-4047-B13F-CF2E5C5F84F8/0-16x9.png?width=500"/>
     <catchup-id>airing-tvnmovieshd-2026-09-19-22:10</catchup-id>
-  </programme>
-  <programme start="20260905233000 +0800" stop="20260906012000 +0800" channel="tvnhd.unifi">
-    <title lang="ms">3 Meals A Day : Light</title>
-    <desc lang="ms">3 Meals A Day returns on its 10th anniversary. Cha Seung-won and Yoo Hae-jin will experience a self-sufficient village life again and enjoy simple yet fulfilling meals with surprise guests.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/E81EA250-61A3-4778-9E6D-4648A2E391A1/0-16x9.png?width=500"/>
-    <catchup-id>airing-tvnhd-2026-09-05-23:30</catchup-id>
   </programme>
   <programme start="20260906012000 +0800" stop="20260906025000 +0800" channel="tvnhd.unifi">
     <title lang="ms">Space Rice Cake</title>
@@ -38334,12 +38175,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">3 Meals A Day returns on its 10th anniversary. Cha Seung-won and Yoo Hae-jin will experience a self-sufficient village life again and enjoy simple yet fulfilling meals with surprise guests.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/E81EA250-61A3-4778-9E6D-4648A2E391A1/0-16x9.png?width=500"/>
     <catchup-id>airing-tvnhd-2026-09-19-23:20</catchup-id>
-  </programme>
-  <programme start="20260905233500 +0800" stop="20260906000500 +0800" channel="tvbjade.unifi">
-    <title lang="ms">ChatSAT</title>
-    <desc lang="ms">It will do its utmost to gather the trendiest and latest information from around the world, covering everything from global events, medical encyclopedias, arts, and technology to daily life and trending online topics, sharing them with the audience every Saturday. By discussing everything under the sun and chatting about the hottest topics, “Group friend” listeners can easily stay up to date with global trends by following the program.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/EA67DBDB-6A52-4D0C-A0ED-F390183F0E70/0-16x9.png?width=500"/>
-    <catchup-id>airing-tvbjade-2026-09-05-23:35</catchup-id>
   </programme>
   <programme start="20260906000500 +0800" stop="20260906003500 +0800" channel="tvbjade.unifi">
     <title lang="ms">News Magazine 2026</title>
@@ -41569,12 +41404,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/EA67DBDB-6A52-4D0C-A0ED-F390183F0E70/0-16x9.png?width=500"/>
     <catchup-id>airing-tvbjade-2026-09-19-23:35</catchup-id>
   </programme>
-  <programme start="20260905230500 +0800" stop="20260906000500 +0800" channel="tvbxinghe.unifi">
-    <title lang="ms">Sunshine Heartbeat</title>
-    <desc lang="ms">They are young. They are bold. They sweat. They fall in love - on the beach. YIP CHING (YEO VIVIEN), YIP KIU (LI SZE YAN) and YIP YAN (CHEN CHI YIU) are sisters. When they were young, they met a Gypsy girl (YUNG CHO YEE, JOEY) who foresaw that CHING would meet her true love, who has a four-leafed clover birthmark, when she turns eighteen. In the blink of an eye, the sisters have grown up and are now sixth-formers at the Greenwood International School. The beach volleyball team captain YUE YAT SUN (SZETO SHUI KI), a star student, is handsome and cheerful. Many girls join the team just for him. The sisters see a four-leafed clover birthmark which matches the description given by the Gypsy girl on SUN from three different angles. However, CHING is indecisive and lacks confidence. KIU and YAN are busy trying to set up chances for her to be with SUN. The three sisters join the beach volleyball team. Remarkably, they also find the same birthmark on a bad student named NIC FONG (CHoi KAY CHUN). The sisters are confused, unsure about who is CHING's true love…</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B7509514-749E-4782-9521-8A07E81A07B2/0-16x9.png?width=500"/>
-    <catchup-id>airing-tvbxinghe-2026-09-05-23:05</catchup-id>
-  </programme>
   <programme start="20260906000500 +0800" stop="20260906010500 +0800" channel="tvbxinghe.unifi">
     <title lang="ms">Gilded Chopsticks</title>
     <desc lang="ms">Ever since his childhood, KO TIN-PO (Wong Cho Lam) has tasted a variety of great delicacies, and he is capable of analyzing the food quality and authenticity once he tastes it. But, owing to the decline of his family, he ends up wandering on the street with his servant LEE WAI (Jack Wu), making a living from selling buns. Also due to his gourmet background, he gets to know a street performer KEI MO-SUET (Joey Meng), the most beautiful girl in Peking NIAN RUOBI (Nancy Wu) and teen celebrity chef MAI SIU-YU (Stephanie Ho), etc. As fate would have it, he comes across Prince YINZHEN (Ben Wong), who is making a tour in disguise, and the two share similar interests. Later on, he is recommended for an imperial chef in the palace, where he runs into his archrival CHOI HOK-TING (Bob Lam), resulting in consecutive fierce battles between them. Meanwhile, TIN-PO has no idea he has been caught in the plot that Prince YINSI (Louis Cheung) hatches to become the rightful heir to the throne. Under such disadvantage, TIN-PO becomes the man who brings luck to Prince YINZHEN, continuously turning the tide for him before his defeat. However, an unexpected betrothal brings him down from the lofty position to the most inferior one of a stray dog......</desc>
@@ -43662,12 +43491,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">the brewery, Kai-shan's younger brothers Kai-shek (Timothy Cheng), Kai-tsun (Gary Chan) and Kai-kong (Tsui Wing) want to divide the family fortune. And even outsider General Ko Shiu-wing (Andrew Yuen) is plotting to get his hands on a piece of the pie. With a 100-year history, Man Koon Brewery's future is in doubt as it gets into such a precarious situation.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B7509514-749E-4782-9521-8A07E81A07B2/0-16x9.png?width=500"/>
     <catchup-id>airing-tvbxinghe-2026-09-19-23:05</catchup-id>
-  </programme>
-  <programme start="20260905235400 +0800" stop="20260906004000 +0800" channel="cctv4hd.unifi">
-    <title lang="ms">Gao Xing De Suan Tian Ku La</title>
-    <desc lang="ms">Set in a rapidly changing Beijing, optimistic small-town dreamer Chang Gao Xing meets local girl Li Sasa. Despite their contrasting backgrounds, the two bond as they face career failures, financial struggles, and personal heartbreak together—ultimately finding love, maturity, and a place to call home.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/E5BD5F84-8278-4B7C-95EA-E7057B0B3233/0-16x9.png?width=500"/>
-    <catchup-id>airing-cctv4hd-2026-09-05-23:54</catchup-id>
   </programme>
   <programme start="20260906004000 +0800" stop="20260906012700 +0800" channel="cctv4hd.unifi">
     <title lang="ms">Gao Xing De Suan Tian Ku La</title>
@@ -47358,12 +47181,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">Following a group of educated youth in Liangchuan City—including Sheng Xuezhu and Yu Leshan—this drama spans 15 years of emotional entanglements and business ups and downs. The series highlights individual choices regarding family, friendship, and love against the backdrop of a changing era</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/E5BD5F84-8278-4B7C-95EA-E7057B0B3233/0-16x9.png?width=500"/>
     <catchup-id>airing-cctv4hd-2026-09-19-23:55</catchup-id>
-  </programme>
-  <programme start="20260905230300 +0800" stop="20260906000300 +0800" channel="phoenixhongkong.unifi">
-    <title lang="ms">PREMIUM SPECTACULAR</title>
-    <desc lang="ms">Premium Spectacular offers Phoenix's finest documentaries in our weekend prime time slot. Each episode comes relevant to the latest news that hits the headlines. Themes range from hot current affair issues at home and abroad, to diverse topics of social, historical and cultural interests.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/8042936E-2929-40C1-8486-463C6FA3DD5F/0-16x9.png?width=500"/>
-    <catchup-id>airing-phoenixhongkong-2026-09-05-23:03</catchup-id>
   </programme>
   <programme start="20260906000300 +0800" stop="20260906003300 +0800" channel="phoenixhongkong.unifi">
     <title lang="ms">THE TRIO TALK</title>
@@ -51463,12 +51280,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/8042936E-2929-40C1-8486-463C6FA3DD5F/0-16x9.png?width=500"/>
     <catchup-id>airing-phoenixhongkong-2026-09-19-23:03</catchup-id>
   </programme>
-  <programme start="20260905230500 +0800" stop="20260906000500 +0800" channel="seti.unifi">
-    <title lang="ms">Love, Now</title>
-    <desc lang="ms">Lan Shi De, who lost his first love in college, reunites with Yang Yi Ru in a foreign land. When he learns she has only six months to live, he decides to marry her and fulfill her dream wedding. Eight days later, she mysteriously disappears, and Shi De vows not to let true love slip away again.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/D9A91961-CCD2-48BA-A4FD-6EC1ECAF0AFC/0-16x9.png?width=500"/>
-    <catchup-id>airing-seti-2026-09-05-23:05</catchup-id>
-  </programme>
   <programme start="20260906000500 +0800" stop="20260906010500 +0800" channel="seti.unifi">
     <title lang="ms">Mommy Says</title>
     <desc lang="ms">A warm and relatable lifestyle talk show that explores the daily dynamics between mothers, daughters-in-law, and modern families. Through real stories, lighthearted conversations, and practical tips on relationships, parenting, and home life, the program highlights touching and humorous moments that help viewers navigate family harmony with ease.</desc>
@@ -53347,12 +53158,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/D9A91961-CCD2-48BA-A4FD-6EC1ECAF0AFC/0-16x9.png?width=500"/>
     <catchup-id>airing-seti-2026-09-19-23:05</catchup-id>
   </programme>
-  <programme start="20260905230000 +0800" stop="20260906011000 +0800" channel="celestialmovies.unifi">
-    <title lang="ms">Wu Kong</title>
-    <desc lang="ms">Set 500 years before the Monkey King Wu Kong wreaks havoc in the heavenly kingdom, the movie tells the story of how Wu Kong who, unwilling to bow to his own destiny, sets out to rebel against the gods.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6C8CF795-8ABE-40AF-A6D5-C0CE552D2C39/0-16x9.png?width=500"/>
-    <catchup-id>airing-celestialmovies-2026-09-05-23:00</catchup-id>
-  </programme>
   <programme start="20260906011000 +0800" stop="20260906040000 +0800" channel="celestialmovies.unifi">
     <title lang="ms">An Abandoned Team</title>
     <desc lang="ms">Uncle Jia is bad-tempered and lives alone. His forced retirement, failed marriage and strained relationship with his daughter have left him in despair, prompting him to consider ending his life. Fortunately, he is rescued by a stray dog and an animal welfare volunteer, allowing him to rediscover his purpose in life.</desc>
@@ -54474,12 +54279,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">Hassan is a Pakistani refugee boy whose father has died in a car accident. A local taxi driver, Yat, then helps him flee Hong Kong. In the process, the two gradually develop a father-son relationship, until Hassan discovers the shocking truth about his father's death…</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6C8CF795-8ABE-40AF-A6D5-C0CE552D2C39/0-16x9.png?width=500"/>
     <catchup-id>airing-celestialmovies-2026-09-19-22:55</catchup-id>
-  </programme>
-  <programme start="20260905232500 +0800" stop="20260906010500 +0800" channel="celestialclassicmovies.unifi">
-    <title lang="ms">Ambitious Kung Fu Girl</title>
-    <desc lang="ms">Si Si, a spoiled and naive rich girl with only basic kung fu training, becomes enchanted by the legends of the fearless hero Qin Ge. Determined to escape her father's arranged marriage, she disguises herself as a man and sets out to find him, hoping to challenge Qin Ge—only to be drawn into a deadly plot within the criminal underworld.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/E4D467A1-81DD-4D5C-9AE8-43C7908B80E9/0-16x9.png?width=500"/>
-    <catchup-id>airing-celestialclassicmovies-2026-09-05-23:25</catchup-id>
   </programme>
   <programme start="20260906010500 +0800" stop="20260906024000 +0800" channel="celestialclassicmovies.unifi">
     <title lang="ms">Song Of Orchid Island</title>
@@ -55747,12 +55546,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/E4D467A1-81DD-4D5C-9AE8-43C7908B80E9/0-16x9.png?width=500"/>
     <catchup-id>airing-celestialclassicmovies-2026-09-19-23:35</catchup-id>
   </programme>
-  <programme start="20260905230000 +0800" stop="20260906010000 +0800" channel="zeethirai.unifi">
-    <title lang="ms">Kuttrame Thandanai</title>
-    <desc lang="ms">A visually impaired young man uses his sharp senses to solve a murder mystery and uncover the truth behind the crime.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/DD728749-B762-4F91-81F8-EA1016F97EF3/0-16x9.png?width=500"/>
-    <catchup-id>airing-zeethirai-2026-09-05-23:00</catchup-id>
-  </programme>
   <programme start="20260906010000 +0800" stop="20260906030000 +0800" channel="zeethirai.unifi">
     <title lang="ms">Annapoorani</title>
     <desc lang="ms">A girl born in an orthodox family aspires to become India's best chef. She faces events and challenges on her way and goes beyond her conventional beliefs and prejudices to achieve her dream.</desc>
@@ -56724,12 +56517,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">Sathish and his friends stash stolen cash in a haunted mansion, only to be trapped in a deadly ghostly game when they return to retrieve it.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/DD728749-B762-4F91-81F8-EA1016F97EF3/0-16x9.png?width=500"/>
     <catchup-id>airing-zeethirai-2026-09-19-22:30</catchup-id>
-  </programme>
-  <programme start="20260905235900 +0800" stop="20260906001000 +0800" channel="sonyyay.unifi">
-    <title lang="ms">Oh My Lallan</title>
-    <desc lang="ms">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/BD814A07-3CF5-4686-B552-31FF782BB8F7/0-16x9.png?width=500"/>
-    <catchup-id>airing-sonyyay-2026-09-05-23:59</catchup-id>
   </programme>
   <programme start="20260906001000 +0800" stop="20260906002500 +0800" channel="sonyyay.unifi">
     <title lang="ms">Hagola</title>
@@ -62911,18 +62698,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/BD814A07-3CF5-4686-B552-31FF782BB8F7/0-16x9.png?width=500"/>
     <catchup-id>airing-sonyyay-2026-09-19-23:40</catchup-id>
   </programme>
-  <programme start="20260905233000 +0800" stop="20260906000000 +0800" channel="zeetamilhd.unifi">
-    <title lang="ms">Sandhya Raagam</title>
-    <desc lang="ms">Aadhya, after losing her mother, is cared for by her aunt Janaki, who must balance Aadhya's urban lifestyle with her family's disapproval. Can Janaki provide the life Aadhya deserves?</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/0331DB51-F701-463B-8C3D-67595A11BA8E/0-16x9.png?width=500"/>
-    <catchup-id>airing-zeetamilhd-2026-09-05-23:30</catchup-id>
-  </programme>
-  <programme start="20260906000000 +0800" stop="20260906003000 +0800" channel="zeetamilhd.unifi">
-    <title lang="ms">Varisu</title>
-    <desc lang="ms">Janakambal, a successful entrepreneur, wants her reckless grandson Cibi to succeed her. She brings in Tamil to set him straight, but can he really change?</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/0331DB51-F701-463B-8C3D-67595A11BA8E/0-16x9.png?width=500"/>
-    <catchup-id>airing-zeetamilhd-2026-09-06-00:00</catchup-id>
-  </programme>
   <programme start="20260906003000 +0800" stop="20260906010000 +0800" channel="zeetamilhd.unifi">
     <title lang="ms">Veera</title>
     <desc lang="ms">Rannvijay raises his half-sister Veera as his own child, while their mother Ratan, though showing contempt towards Veera, secretly supports her son in raising her.</desc>
@@ -66247,18 +66022,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/0331DB51-F701-463B-8C3D-67595A11BA8E/0-16x9.png?width=500"/>
     <catchup-id>airing-zeetamilhd-2026-09-20-00:00</catchup-id>
   </programme>
-  <programme start="20260905210000 +0800" stop="20260906000000 +0800" channel="zeecinemahd.unifi">
-    <title lang="ms">Kho Gaye Hum Kahan</title>
-    <desc lang="ms">Three friends, Imaad, Ahana, and Neil, navigate love, heartbreak, and life's challenges in the digital age, finding solace and support in each other.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/80C77245-57B4-4DA8-8C30-4A0A2DB30D1B/0-16x9.png?width=500"/>
-    <catchup-id>airing-zeecinemahd-2026-09-05-21:00</catchup-id>
-  </programme>
-  <programme start="20260906000000 +0800" stop="20260906030000 +0800" channel="zeecinemahd.unifi">
-    <title lang="ms">Satyaprem ki Katha</title>
-    <desc lang="ms">Satyaprem, a relatable middle-class guy, juggles his unrequited love for Katha as he supports her through a tough breakup, all while deepening their unexpected friendship.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/80C77245-57B4-4DA8-8C30-4A0A2DB30D1B/0-16x9.png?width=500"/>
-    <catchup-id>airing-zeecinemahd-2026-09-06-00:00</catchup-id>
-  </programme>
   <programme start="20260906030000 +0800" stop="20260906060000 +0800" channel="zeecinemahd.unifi">
     <title lang="ms">Vivah - Journey From Engagement To Marriage</title>
     <desc lang="ms">Poonam, a traditional girl gets engaged to Prem. Their faith and love are tested when an accident occurs and Poonam might be scarred for life.</desc>
@@ -67086,11 +66849,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">When three notorious criminals lock horns with a hot-tempered police officer, Potharaju Shanker, little do they know that they will end up behind bars.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/80C77245-57B4-4DA8-8C30-4A0A2DB30D1B/0-16x9.png?width=500"/>
     <catchup-id>airing-zeecinemahd-2026-09-20-00:00</catchup-id>
-  </programme>
-  <programme start="20260905232500 +0800" stop="20260906011500 +0800" channel="hbohd.unifi">
-    <title lang="ms">Red Sonja</title>
-    <desc lang="ms">A barbarian huntress, Red Sonja, must unite a group of unlikely warriors to face off against Emperor Draygan and his deadly bride.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9A5A508C-BB3A-4139-8C2F-8B092336F192/0-16x9.png?width=500"/>
   </programme>
   <programme start="20260906011500 +0800" stop="20260906030000 +0800" channel="hbohd.unifi">
     <title lang="ms">Final Destination Bloodlines</title>
@@ -68136,16 +67894,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <title lang="ms">Novocaine</title>
     <desc lang="ms">When the girl of his dreams is taken hostage, Nathan turns his inability to feel pain into an unexpected strength in the fight to get her back.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9A5A508C-BB3A-4139-8C2F-8B092336F192/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260905222500 +0800" stop="20260906000000 +0800" channel="hbohits.unifi">
-    <title lang="ms">Sweethearts</title>
-    <desc lang="ms">When they decide to break up with their high school sweethearts, college freshmen Ben and Jamie put their own co-dependent friendship to the test.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/054D31F0-3639-4ADB-AB0D-9B8621E0190D/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260906000000 +0800" stop="20260906024500 +0800" channel="hbohits.unifi">
-    <title lang="ms">Mission: Impossible – The Final Reckoning</title>
-    <desc lang="ms">Our lives are the sum of our choices. Tom Cruise is Ethan Hunt in Mission: Impossible - The Final Reckoning.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/054D31F0-3639-4ADB-AB0D-9B8621E0190D/0-16x9.png?width=500"/>
   </programme>
   <programme start="20260906024500 +0800" stop="20260906044000 +0800" channel="hbohits.unifi">
     <title lang="ms">What Men Want</title>
@@ -69216,11 +68964,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <title lang="ms">Nobody 2</title>
     <desc lang="ms">An assassin takes his family on vacation, where he accidentally becomes the target of a bloodthirsty crime boss in this bare-knuckle action-thriller.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/054D31F0-3639-4ADB-AB0D-9B8621E0190D/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260905235000 +0800" stop="20260906000100 +0800" channel="hbofamily.unifi">
-    <title lang="ms">Uncle Grandpa</title>
-    <desc lang="ms">When a kid is bummed that his favorite shirt won't fit over his big belly, it's up to Uncle Grandpa to show him that t-shirts come and go, but having a big belly is always cool.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/31780236-3056-4866-AE99-B3C33D65B073/0-16x9.png?width=500"/>
   </programme>
   <programme start="20260906000100 +0800" stop="20260906001200 +0800" channel="hbofamily.unifi">
     <title lang="ms">Uncle Grandpa</title>
@@ -72967,11 +72710,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">After receiving an ominous fortune, Uncle Grandpa must snoop out whom among his friends is an enemy in disguise.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/31780236-3056-4866-AE99-B3C33D65B073/0-16x9.png?width=500"/>
   </programme>
-  <programme start="20260905230000 +0800" stop="20260906005500 +0800" channel="cinemax.unifi">
-    <title lang="ms">American Made</title>
-    <desc lang="ms">Tom Cruise stars in an international escapade based on the outrageous, true exploits of hustler and pilot recruited to run one of the biggest covert operations in the U.S</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/479F46FE-15C6-498A-92C1-8E583B79E487/0-16x9.png?width=500"/>
-  </programme>
   <programme start="20260906005500 +0800" stop="20260906025000 +0800" channel="cinemax.unifi">
     <title lang="ms">Us</title>
     <desc lang="ms">An endearing American family is pitted against a terrifying and uncanny opponent: doppelgängers of themselves.</desc>
@@ -74007,12 +73745,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">In the second of the blockbuster Batman films, the physically deformed criminal genius The Penguin threatens Gotham City. Helpless, the entire city can only pray that Batman Returns.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/479F46FE-15C6-498A-92C1-8E583B79E487/0-16x9.png?width=500"/>
   </programme>
-  <programme start="20260905230000 +0800" stop="20260906010000 +0800" channel="hitsmovies.unifi">
-    <title lang="ms">Love Story</title>
-    <desc lang="ms">A young couple crosses social barriers to marry, only to be faced with the unexpected tragedy of the girl's sudden illness.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/3C8B5AB5-8F5E-41A6-9AD2-ED9E22B460E9/0-16x9.png?width=500"/>
-    <catchup-id>airing-hitsmovies-2026-09-05-23:00</catchup-id>
-  </programme>
   <programme start="20260906010000 +0800" stop="20260906031500 +0800" channel="hitsmovies.unifi">
     <title lang="ms">E.T. The Extra-Terrestrial</title>
     <desc lang="ms">Captivating audiences of all ages, this timeless story follows the unforgettable journey of a lost alien and the 10-year-old boy he befriends.</desc>
@@ -75020,12 +74752,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">The Turtles find out where the substance which made them mutate came from. Unfortunately, Shredder learns about it too, and uses it to his advantage, so the Turtles have to prove again who's the better ninja fighter.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/3C8B5AB5-8F5E-41A6-9AD2-ED9E22B460E9/0-16x9.png?width=500"/>
     <catchup-id>airing-hitsmovies-2026-09-19-23:00</catchup-id>
-  </programme>
-  <programme start="20260905231000 +0800" stop="20260906011000 +0800" channel="warnertv.unifi">
-    <title lang="ms">War Dogs</title>
-    <desc lang="ms">Jonah Hill and Miles Teller star in this true story of two stoner kids who wound up becoming big-time arms dealers for the U.S. Government.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/7C14DEDF-68C8-447B-B1D7-5CB170AF3CF3/0-16x9.png?width=500"/>
-    <catchup-id>airing-warnertv-2026-09-05-23:10</catchup-id>
   </programme>
   <programme start="20260906011000 +0800" stop="20260906020000 +0800" channel="warnertv.unifi">
     <title lang="ms">Titans</title>
@@ -78057,12 +77783,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/7C14DEDF-68C8-447B-B1D7-5CB170AF3CF3/0-16x9.png?width=500"/>
     <catchup-id>airing-warnertv-2026-09-19-21:10</catchup-id>
   </programme>
-  <programme start="20260905233500 +0800" stop="20260906000500 +0800" channel="hitsnow.unifi">
-    <title lang="ms">Family Feud</title>
-    <desc lang="ms">Hosted by Daytime Emmy Award® winning host Steve Harvey, Family Feud brings all new hilarious moments and families as they compete for a chance to win up to $20,000 by guessing the most popular answers to questions posed to 100 people surveyed.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AB981083-F9B7-45F0-A28E-F6DCC3DAF10A/0-16x9.png?width=500"/>
-    <catchup-id>airing-hitsnow-2026-09-05-23:35</catchup-id>
-  </programme>
   <programme start="20260906000500 +0800" stop="20260906010500 +0800" channel="hitsnow.unifi">
     <title lang="ms">Sheriff Country</title>
     <desc lang="ms">After a mysterious school bus explosion leaves nine students missing, Sheriff Mickey Fox and Cal Fire Division Chief Sharon Leone must unite their departments to crack the case.</desc>
@@ -80168,12 +79888,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">Hosted by Daytime Emmy Award® winning host Steve Harvey, Family Feud brings all new hilarious moments and families as they compete for a chance to win up to $20,000 by guessing the most popular answers to questions posed to 100 people surveyed.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AB981083-F9B7-45F0-A28E-F6DCC3DAF10A/0-16x9.png?width=500"/>
     <catchup-id>airing-hitsnow-2026-09-19-23:35</catchup-id>
-  </programme>
-  <programme start="20260905233000 +0800" stop="20260906020000 +0800" channel="axn.unifi">
-    <title lang="ms">BOURNE LEGACY, THE</title>
-    <desc lang="ms">Agent Aaron Cross (Jeremy Renner) must use his genetically-enhanced skills to finish what Jason Bourne started in this action-packed hit that takes the Bourne series to explosive new levels.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/568841DF-E3B3-454A-9521-11813C6C0954/0-16x9.png?width=500"/>
-    <catchup-id>airing-axn-2026-09-05-23:30</catchup-id>
   </programme>
   <programme start="20260906020000 +0800" stop="20260906042500 +0800" channel="axn.unifi">
     <title lang="ms">WHITE HOUSE DOWN</title>
@@ -82406,12 +82120,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">M3GAN, a prototype doll and marvel of A.I., is paired with a young girl, leading to unimaginable consequences. From the producers of The Black Phone and Annabelle.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/568841DF-E3B3-454A-9521-11813C6C0954/0-16x9.png?width=500"/>
     <catchup-id>airing-axn-2026-09-19-23:45</catchup-id>
-  </programme>
-  <programme start="20260905234000 +0800" stop="20260906001000 +0800" channel="hits.unifi">
-    <title lang="ms">The Jeffersons</title>
-    <desc lang="ms">Lillian mistreated Louise by being condescending to her when she worked as Lillian's maid 14 years ago. But Louise may have to contact her for a donation when the Help Center is dangerously short on funds.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/E55E65A4-6CCD-4A8B-8132-1727470820F4/0-16x9.png?width=500"/>
-    <catchup-id>airing-hits-2026-09-05-23:40</catchup-id>
   </programme>
   <programme start="20260906001000 +0800" stop="20260906004000 +0800" channel="hits.unifi">
     <title lang="ms">The Jeffersons</title>
@@ -84861,11 +84569,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/E55E65A4-6CCD-4A8B-8132-1727470820F4/0-16x9.png?width=500"/>
     <catchup-id>airing-hits-2026-09-19-23:40</catchup-id>
   </programme>
-  <programme start="20260905224000 +0800" stop="20260906002500 +0800" channel="kplus.unifi">
-    <title lang="ms">Knowing Bros</title>
-    <desc lang="ms">A talk show where the cast members act like students in a classroom, and guests are invited as new transfer students.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B8D0D9CC-B198-469A-9AAE-87DAE8A4DDB4/0-16x9.png?width=500"/>
-  </programme>
   <programme start="20260906002500 +0800" stop="20260906014000 +0800" channel="kplus.unifi">
     <title lang="ms">Show Champion</title>
     <desc lang="ms">Hosted by various guest MCs, Show Champion featured the most popular hits in Korea and the upcoming super rookies in the K-Pop music scene</desc>
@@ -86480,12 +86183,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <title lang="ms">Knowing Bros</title>
     <desc lang="ms">A talk show where the cast members act like students in a classroom, and guests are invited as new transfer students.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B8D0D9CC-B198-469A-9AAE-87DAE8A4DDB4/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260905234000 +0800" stop="20260906001000 +0800" channel="animax.unifi">
-    <title lang="ms">D.GRAY-MAN</title>
-    <desc lang="ms">The Earl's black orb of energy completely destroys Edo, and Allen and the Earl meet again as the Earl tries to obtain Lenalee's Innocence himself.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/D40AFC4A-BD3D-46B2-B1F4-78B483796A2A/0-16x9.png?width=500"/>
-    <catchup-id>airing-animax-2026-09-05-23:40</catchup-id>
   </programme>
   <programme start="20260906001000 +0800" stop="20260906004000 +0800" channel="animax.unifi">
     <title lang="ms">D.GRAY-MAN</title>
@@ -90597,12 +90294,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/D40AFC4A-BD3D-46B2-B1F4-78B483796A2A/0-16x9.png?width=500"/>
     <catchup-id>airing-animax-2026-09-19-23:40</catchup-id>
   </programme>
-  <programme start="20260905230500 +0800" stop="20260906001000 +0800" channel="rockentertainment.unifi">
-    <title lang="ms">The Wheel Of Time</title>
-    <desc lang="ms">Nynaeve and Elayne are given a deadly mission. Perrin learns the consequences of his rage. Lanfear begins to play a dangerous game.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/3A21C3E7-8514-4978-BEAA-6EE4DAB2C5B8/0-16x9.png?width=500"/>
-    <catchup-id>airing-rockentertainment-2026-09-05-23:05</catchup-id>
-  </programme>
   <programme start="20260906001000 +0800" stop="20260906012000 +0800" channel="rockentertainment.unifi">
     <title lang="ms">The Wheel Of Time</title>
     <desc lang="ms">Rand faces the forgotten history of his family as Moiraine learns the devastating truth of her future.</desc>
@@ -92715,12 +92406,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/3A21C3E7-8514-4978-BEAA-6EE4DAB2C5B8/0-16x9.png?width=500"/>
     <catchup-id>airing-rockentertainment-2026-09-19-23:55</catchup-id>
   </programme>
-  <programme start="20260905233500 +0800" stop="20260906014500 +0800" channel="rockaction.unifi">
-    <title lang="ms">Waterworld</title>
-    <desc lang="ms">In *Waterworld*, Kevin Costner stars as a lone maverick in a flooded future Earth, protecting a mother and daughter from a tribe of ruthless nomads. Dennis Hopper delivers a memorable villainous performance in this thrilling adventure.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/1EEE031E-E97D-468E-A503-ECE1F41E3AC0/0-16x9.png?width=500"/>
-    <catchup-id>airing-rockaction-2026-09-05-23:35</catchup-id>
-  </programme>
   <programme start="20260906014500 +0800" stop="20260906043000 +0800" channel="rockaction.unifi">
     <title lang="ms">The Hateful Eight</title>
     <desc lang="ms">Quentin Tarantino's 8th film takes place in wintry Wyoming, where eight strangers, including two bounty hunters and a wanted fugitive, find themselves battling the elements and each other.</desc>
@@ -93890,12 +93575,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">Misanthropic worker Orson detests his lazy colleagues. He finds a secret, magical office that boosts his productivity and status, but his coworkers can't see the room and grow to resent his success.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/1EEE031E-E97D-468E-A503-ECE1F41E3AC0/0-16x9.png?width=500"/>
     <catchup-id>airing-rockaction-2026-09-19-23:50</catchup-id>
-  </programme>
-  <programme start="20260905233500 +0800" stop="20260906002500 +0800" channel="bbcearthhd.unifi">
-    <title lang="ms">Hippo Watch with Steve Backshall</title>
-    <desc lang="ms">Having been fearful of hippos since a young boy, Steve Backshall sets out to discover why hippos are considered the most dangerous animals in Africa, and if their aggressive reputation is misunderstood.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/06456101-BAA6-40B9-AA17-81B113B0E289/0-16x9.png?width=500"/>
-    <catchup-id>airing-bbcearthhd-2026-09-05-23:35</catchup-id>
   </programme>
   <programme start="20260906002500 +0800" stop="20260906013000 +0800" channel="bbcearthhd.unifi">
     <title lang="ms">Great Asian Railway Journeys</title>
@@ -96279,12 +95958,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/06456101-BAA6-40B9-AA17-81B113B0E289/0-16x9.png?width=500"/>
     <catchup-id>airing-bbcearthhd-2026-09-19-23:40</catchup-id>
   </programme>
-  <programme start="20260905234500 +0800" stop="20260906004000 +0800" channel="lovenaturehd.unifi">
-    <title lang="ms">Evolution Earth</title>
-    <desc lang="ms">Travel to the ends of the Earth, where a drama is unfolding in real time. Meet animals, from tiny butterflies to huge humpback whales, that are acting as sentinels, adapting their behaviour, and helping us unlock the riddles of our changing planet.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9B3871C9-6B6A-4B72-A180-D2F3C0717159/0-16x9.png?width=500"/>
-    <catchup-id>airing-lovenaturehd-2026-09-05-23:45</catchup-id>
-  </programme>
   <programme start="20260906004000 +0800" stop="20260906013000 +0800" channel="lovenaturehd.unifi">
     <title lang="ms">Evolution Earth</title>
     <desc lang="ms">Find out why islands are like mini-Earths where evolution happens before your eyes. Journey from the Galápagos to Antarctica to see how sea lions, finches, crickets, monkeys and other wildlife are finding surprising solutions to climatic problems.</desc>
@@ -98630,12 +98303,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">After the dry season lowers the waters, siblings Kimba and Maya risk crossing the river to search for their parents. They run the gauntlet of the densest populations of crocs and hippos in Africa, and face an even greater threat on the other side.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9B3871C9-6B6A-4B72-A180-D2F3C0717159/0-16x9.png?width=500"/>
     <catchup-id>airing-lovenaturehd-2026-09-19-23:45</catchup-id>
-  </programme>
-  <programme start="20260905234500 +0800" stop="20260906003500 +0800" channel="hgtv.unifi">
-    <title lang="ms">Renovation Aloha</title>
-    <desc lang="ms">The Kalamas pivot to flipping a hoarder condo after a shutdown stalls another job, but tight margins put their profit at risk.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B7EBC0E2-E56A-431D-B9CF-D1105908CAD3/0-16x9.png?width=500"/>
-    <catchup-id>airing-hgtv-2026-09-05-23:45</catchup-id>
   </programme>
   <programme start="20260906003500 +0800" stop="20260906012500 +0800" channel="hgtv.unifi">
     <title lang="ms">My Lottery Dream Home: Where Are They Now?</title>
@@ -101865,12 +101532,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B7EBC0E2-E56A-431D-B9CF-D1105908CAD3/0-16x9.png?width=500"/>
     <catchup-id>airing-hgtv-2026-09-19-23:45</catchup-id>
   </programme>
-  <programme start="20260905235500 +0800" stop="20260906005000 +0800" channel="bbclifestylehd.unifi">
-    <title lang="ms">George Clarke's Remarkable Renovations</title>
-    <desc lang="ms">George Clarke meets Sam and Jimmy who are converting a 5,000 square foot old pie factory into an incredible new home.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/7449833A-0595-4CB6-A762-FA16B2C6604C/0-16x9.png?width=500"/>
-    <catchup-id>airing-bbclifestylehd-2026-09-05-23:55</catchup-id>
-  </programme>
   <programme start="20260906005000 +0800" stop="20260906015000 +0800" channel="bbclifestylehd.unifi">
     <title lang="ms">Amazing Hotels: Life Beyond the Lobby</title>
     <desc lang="ms">Rob and Monica make the journey to Turkey to work at a hotel built into a network of caves, where modern luxury meets ancient history and every room comes with its own surprises.</desc>
@@ -104378,12 +104039,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">On the weather-beaten Great Barrier Island, George visits a home that's redefining the traditional courtyard, a house that's challenging architectural convention and an open-plan sculptural marvel.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/7449833A-0595-4CB6-A762-FA16B2C6604C/0-16x9.png?width=500"/>
     <catchup-id>airing-bbclifestylehd-2026-09-20-00:00</catchup-id>
-  </programme>
-  <programme start="20260905233500 +0800" stop="20260906000500 +0800" channel="asianfoodnetwork.unifi">
-    <title lang="ms">Finding Lost Recipes</title>
-    <desc lang="ms">When celebrated fine-dining chef Stefan Liau died unexpectedly, he left behind more than a grieving wife -- he left behind a dish no one else knew how to make.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/85AFA58C-C399-4D78-87BF-FEB53DA2F4CD/0-16x9.png?width=500"/>
-    <catchup-id>airing-asianfoodnetwork-2026-09-05-23:35</catchup-id>
   </programme>
   <programme start="20260906000500 +0800" stop="20260906003000 +0800" channel="asianfoodnetwork.unifi">
     <title lang="ms">Poh Cooks Malaysia</title>
@@ -108110,12 +107765,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">The craftsmanship of Japanese desserts is outstanding. Wagashi is a traditional Japanese dessert and also a symbol of the culture.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/85AFA58C-C399-4D78-87BF-FEB53DA2F4CD/0-16x9.png?width=500"/>
     <catchup-id>airing-asianfoodnetwork-2026-09-19-23:05</catchup-id>
-  </programme>
-  <programme start="20260905235500 +0800" stop="20260906002000 +0800" channel="dreamworkshd.unifi">
-    <title lang="ms">Trollhunters: Tales of Arcadia</title>
-    <desc lang="ms">Blinky, Toby and Claire make a dangerous trade with the Janus Order while Gunmar sets Jim up in a battle to the death</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/C80E3DCC-64D5-4447-991B-E2E2998E6DEF/0-16x9.png?width=500"/>
-    <catchup-id>airing-dreamworkshd-2026-09-05-23:55</catchup-id>
   </programme>
   <programme start="20260906002000 +0800" stop="20260906004500 +0800" channel="dreamworkshd.unifi">
     <title lang="ms">Trollhunters: Tales of Arcadia</title>
@@ -113163,12 +112812,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/C80E3DCC-64D5-4447-991B-E2E2998E6DEF/0-16x9.png?width=500"/>
     <catchup-id>airing-dreamworkshd-2026-09-19-23:55</catchup-id>
   </programme>
-  <programme start="20260905232900 +0800" stop="20260906012900 +0800" channel="moonbugkids.unifi">
-    <title lang="ms">Little Baby Bum: Lullabies</title>
-    <desc lang="ms">Little Baby Bum is here to help you fall to sleep; with soothing, relaxing animated lullabies</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/8E7404EF-65F4-491A-8498-7BA94D15D28A/0-16x9.png?width=500"/>
-    <catchup-id>airing-moonbugkids-2026-09-05-23:29</catchup-id>
-  </programme>
   <programme start="20260906012900 +0800" stop="20260906015900 +0800" channel="moonbugkids.unifi">
     <title lang="ms">Playtime With Twinkle</title>
     <desc lang="ms">It's a day of fun adventures &amp; sleepy songs! Twinkle learns animal sounds &amp; sings a lullaby with Mr. Moon!</desc>
@@ -117158,18 +116801,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">Little Baby Bum is here to help you fall to sleep; with soothing, relaxing animated lullabies</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/8E7404EF-65F4-491A-8498-7BA94D15D28A/0-16x9.png?width=500"/>
     <catchup-id>airing-moonbugkids-2026-09-19-23:29</catchup-id>
-  </programme>
-  <programme start="20260905234500 +0800" stop="20260906000000 +0800" channel="nickjr.unifi">
-    <title lang="ms">BARBAPAPA - One Big Happy Family!</title>
-    <desc lang="ms">During a walk, the Barbapapa family discovers a megalith.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/27A246D6-BEAD-43F8-89AE-12FB781954FD/0-16x9.png?width=500"/>
-    <catchup-id>airing-nickjr-2026-09-05-23:45</catchup-id>
-  </programme>
-  <programme start="20260906000000 +0800" stop="20260906002000 +0800" channel="nickjr.unifi">
-    <title lang="ms">Rubble &amp; Crew</title>
-    <desc lang="ms">Rubble &amp; Crew wants to make the biggest pancake ever! But it's a sticky situation when Speed Meister wants to beat them to it.  When Camila's plane gets dirty from leading migrating ducks home, the pups find a way to wash the plane... in the sky!</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/27A246D6-BEAD-43F8-89AE-12FB781954FD/0-16x9.png?width=500"/>
-    <catchup-id>airing-nickjr-2026-09-06-00:00</catchup-id>
   </programme>
   <programme start="20260906002000 +0800" stop="20260906003000 +0800" channel="nickjr.unifi">
     <title lang="ms">Rubble &amp; Crew</title>
@@ -124010,18 +123641,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">After uncovering dinosaur bones, the pups decide to build a dinosaur museum!  When Omar the Mail Carrier breaks his foot, it's up to the pups to make sure he can still deliver the mail by building ramps all over town.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/27A246D6-BEAD-43F8-89AE-12FB781954FD/0-16x9.png?width=500"/>
     <catchup-id>airing-nickjr-2026-09-20-00:00</catchup-id>
-  </programme>
-  <programme start="20260905234300 +0800" stop="20260906000000 +0800" channel="cbeebieshd.unifi">
-    <title lang="ms">Andy's Global Adventures</title>
-    <desc lang="ms">Andy, Jen and Scout head to the Sea of Cortez to rescue a swollen-nosed side-blotched lizard and discover its taste for salty seafood means it sneezes out the excess salt.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9784F0AC-A9BC-4C93-8D22-023403A38B7B/0-16x9.png?width=500"/>
-    <catchup-id>airing-cbeebieshd-2026-09-05-23:43</catchup-id>
-  </programme>
-  <programme start="20260906000000 +0800" stop="20260906000700 +0800" channel="cbeebieshd.unifi">
-    <title lang="ms">Hey Duggee</title>
-    <desc lang="ms">Duggee is encouraging the Squirrels to come outside by gesturing through the window. They don't understand what he's doing and think it's funny. When he comes inside, he explains that he was miming.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9784F0AC-A9BC-4C93-8D22-023403A38B7B/0-16x9.png?width=500"/>
-    <catchup-id>airing-cbeebieshd-2026-09-06-00:00</catchup-id>
   </programme>
   <programme start="20260906000700 +0800" stop="20260906001400 +0800" channel="cbeebieshd.unifi">
     <title lang="ms">Hey Duggee</title>
@@ -137871,12 +137490,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9784F0AC-A9BC-4C93-8D22-023403A38B7B/0-16x9.png?width=500"/>
     <catchup-id>airing-cbeebieshd-2026-09-20-00:00</catchup-id>
   </programme>
-  <programme start="20260905235300 +0800" stop="20260906000300 +0800" channel="nickelodeon.unifi">
-    <title lang="ms">The Marsupilamis</title>
-    <desc lang="ms">Marcel sneaks into the Chahuta and the Marsups give him a fright!</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B0F89221-2AF9-493C-B1FD-3169136100C2/0-16x9.png?width=500"/>
-    <catchup-id>airing-nickelodeon-2026-09-05-23:53</catchup-id>
-  </programme>
   <programme start="20260906000300 +0800" stop="20260906001800 +0800" channel="nickelodeon.unifi">
     <title lang="ms">The Loud House</title>
     <desc lang="ms">When Leni is put in charge of the school's prom, she is determined to make it the most memorable night ever.</desc>
@@ -143589,12 +143202,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B0F89221-2AF9-493C-B1FD-3169136100C2/0-16x9.png?width=500"/>
     <catchup-id>airing-nickelodeon-2026-09-19-23:53</catchup-id>
   </programme>
-  <programme start="20260905232300 +0800" stop="20260906000800 +0800" channel="cartoonnetwork.unifi">
-    <title lang="ms">Steven Universe</title>
-    <desc lang="ms">Ep76, Ep77, Ep78-The Gems take a trip to the moon.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/19A98713-0CA9-4509-BDA3-AA652B2329A3/0-16x9.png?width=500"/>
-    <catchup-id>airing-cartoonnetwork-2026-09-05-23:23</catchup-id>
-  </programme>
   <programme start="20260906000800 +0800" stop="20260906010800 +0800" channel="cartoonnetwork.unifi">
     <title lang="ms">Regular Show</title>
     <desc lang="ms">Ep9, Ep39, Ep54, Ep114, Ep139-While everyone prepares for the park's annual barbecue, things go awry when Rigby accidentally burns Benson's hot dogs.</desc>
@@ -146168,12 +145775,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">Ep88, Ep89, Ep90-Steven, Greg and Pearl take a trip to Empire City to live the good life.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/19A98713-0CA9-4509-BDA3-AA652B2329A3/0-16x9.png?width=500"/>
     <catchup-id>airing-cartoonnetwork-2026-09-19-23:23</catchup-id>
-  </programme>
-  <programme start="20260905233300 +0800" stop="20260906000300 +0800" channel="bbcworldnewshd.unifi">
-    <title lang="ms">Abandoned: Searching For Soldier Dad (r)-Episode 1</title>
-    <desc lang="ms">BBC Africa Eye follows a groundbreaking process helping Kenyans track down their British dads. Families are finding answers, in a landmark case exposing the human cost of Britain's military presence.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/27953737-1BD2-45A3-9187-D055D4550D6D/0-16x9.png?width=500"/>
-    <catchup-id>airing-bbcworldnewshd-2026-09-05-23:33</catchup-id>
   </programme>
   <programme start="20260906000300 +0800" stop="20260906010300 +0800" channel="bbcworldnewshd.unifi">
     <title lang="ms">BBC News</title>
@@ -150507,12 +150108,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/27953737-1BD2-45A3-9187-D055D4550D6D/0-16x9.png?width=500"/>
     <catchup-id>airing-bbcworldnewshd-2026-09-19-23:33</catchup-id>
   </programme>
-  <programme start="20260905230300 +0800" stop="20260906000300 +0800" channel="aljazeera.unifi">
-    <title lang="ms">Newshour</title>
-    <desc lang="ms">Latest news and in-depth analysis from around the world.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/5410FF16-4BD0-47F5-91B9-DAC673523D53/0-16x9.png?width=500"/>
-    <catchup-id>airing-aljazeera-2026-09-05-23:03</catchup-id>
-  </programme>
   <programme start="20260906000300 +0800" stop="20260906003300 +0800" channel="aljazeera.unifi">
     <title lang="ms">News Live</title>
     <desc lang="ms">Up-to-date news and analysis from around the world.</desc>
@@ -153747,11 +153342,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/5410FF16-4BD0-47F5-91B9-DAC673523D53/0-16x9.png?width=500"/>
     <catchup-id>airing-aljazeera-2026-09-19-23:03</catchup-id>
   </programme>
-  <programme start="20260905233300 +0800" stop="20260906000300 +0800" channel="cgtnhd.unifi">
-    <title lang="ms">Inheritors</title>
-    <desc lang="ms">Inheritors is a multi-media product from CGTN that shines a light on China's rich Intangible Cultural Heritage. Each 30-minute TV edition is hosted by a long-term expatriate in China who has a unique understanding of the country's culture. He or she will introduce viewers to people who are dedicating their lives to its protection, inheritance, innovation, development and promotion.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/8545CF4C-4493-4134-B706-13547D9B4B36/0-16x9.png?width=500"/>
-  </programme>
   <programme start="20260906000300 +0800" stop="20260906003300 +0800" channel="cgtnhd.unifi">
     <title lang="ms">The World Today</title>
     <desc lang="ms">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
@@ -156947,12 +156537,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">Inheritors is a multi-media product from CGTN that shines a light on China's rich Intangible Cultural Heritage. Each 30-minute TV edition is hosted by a long-term expatriate in China who has a unique understanding of the country's culture. He or she will introduce viewers to people who are dedicating their lives to its protection, inheritance, innovation, development and promotion.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/8545CF4C-4493-4134-B706-13547D9B4B36/0-16x9.png?width=500"/>
   </programme>
-  <programme start="20260905230600 +0800" stop="20260906000300 +0800" channel="channelnewsasia.unifi">
-    <title lang="ms">The Long Game</title>
-    <desc lang="ms">It's the thrill of opening day for some of the food entrepreneurs, while others hit roadblocks and wonder what's next in their culinary journeys. Are they able to play the long game?</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/D13F284A-4009-4A1D-964C-CCD4F25A4579/0-16x9.png?width=500"/>
-    <catchup-id>airing-channelnewsasia-2026-09-05-23:06</catchup-id>
-  </programme>
   <programme start="20260906000300 +0800" stop="20260906000600 +0800" channel="channelnewsasia.unifi">
     <title lang="ms">Headline News</title>
     <desc lang="ms">The latest top stories of the hour.</desc>
@@ -159574,12 +159158,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">How are electric vehicles driving change in the Philippines amid rising petrol and diesel shortages and price spikes due to the Middle East crisis?</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/D13F284A-4009-4A1D-964C-CCD4F25A4579/0-16x9.png?width=500"/>
     <catchup-id>airing-channelnewsasia-2026-09-19-23:06</catchup-id>
-  </programme>
-  <programme start="20260905235100 +0800" stop="20260906000300 +0800" channel="euronews.unifi">
-    <title lang="ms">News</title>
-    <desc lang="ms">The leading news stories of the moment.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/98415BAC-8D06-4614-8459-7C0E306DA785/0-16x9.png?width=500"/>
-    <catchup-id>airing-euronews-2026-09-05-23:51</catchup-id>
   </programme>
   <programme start="20260906000300 +0800" stop="20260906000800 +0800" channel="euronews.unifi">
     <title lang="ms">5 minutes</title>
@@ -166985,16 +166563,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/98415BAC-8D06-4614-8459-7C0E306DA785/0-16x9.png?width=500"/>
     <catchup-id>airing-euronews-2026-09-19-23:51</catchup-id>
   </programme>
-  <programme start="20260905233000 +0800" stop="20260906000000 +0800" channel="bernamatv.unifi">
-    <title lang="ms">Tamil News</title>
-    <desc lang="ms">berpengaruh, pendebat cemerlang, dan pemilik perniagaan dalam satu pentas yang sama— membicarakan isu-isu semasa dari dua sisi pandang.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F3362D9E-20F0-483D-BA25-B3305233657A/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260906000000 +0800" stop="20260906010000 +0800" channel="bernamatv.unifi">
-    <title lang="ms">Ruang Bicara</title>
-    <desc lang="ms">Rancangan bual bicara bersama tetamu di studio mengupas topik semasa tanah air.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F3362D9E-20F0-483D-BA25-B3305233657A/0-16x9.png?width=500"/>
-  </programme>
   <programme start="20260906010000 +0800" stop="20260906013000 +0800" channel="bernamatv.unifi">
     <title lang="ms">Buletin Bernama</title>
     <desc lang="ms">Berita semasa dalam dan luar negara yang mengandungi berita am, politik, ekonomi, niaga dan sukan.</desc>
@@ -170215,16 +169783,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">Rancangan bual bicara bersama tetamu di studio mengupas topik semasa tanah air.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F3362D9E-20F0-483D-BA25-B3305233657A/0-16x9.png?width=500"/>
   </programme>
-  <programme start="20260905120000 +0800" stop="20260906000000 +0800" channel="parlimenmalaysia.unifi">
-    <title lang="ms">Siaran Tamat</title>
-    <desc lang="ms">Siaran Tamat</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/85286732-64A6-4885-B02A-ED0383F4319D/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260906000000 +0800" stop="20260906120000 +0800" channel="parlimenmalaysia.unifi">
-    <title lang="ms">Siaran Tamat</title>
-    <desc lang="ms">Siaran Tamat</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/85286732-64A6-4885-B02A-ED0383F4319D/0-16x9.png?width=500"/>
-  </programme>
   <programme start="20260906120000 +0800" stop="20260907000000 +0800" channel="parlimenmalaysia.unifi">
     <title lang="ms">Siaran Tamat</title>
     <desc lang="ms">Siaran Tamat</desc>
@@ -170494,11 +170052,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <title lang="ms">Siaran Tamat</title>
     <desc lang="ms">Siaran Tamat</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/85286732-64A6-4885-B02A-ED0383F4319D/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260905233500 +0800" stop="20260906000500 +0800" channel="abcaustralia.unifi">
-    <title lang="ms">Landline: Mekong Special - Cambodia and Laos</title>
-    <desc lang="ms">Landline visits South-East Asia where a unique charity in Cambodia gives cows to farmers in return for sending their children to school. In Laos a dairy's buffalo rental scheme is helping lift families out of poverty.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F16A709A-F106-4164-8E34-DFD79461B61A/0-16x9.png?width=500"/>
   </programme>
   <programme start="20260906000500 +0800" stop="20260906003500 +0800" channel="abcaustralia.unifi">
     <title lang="ms">Asia News Week</title>
@@ -172799,11 +172352,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <title lang="ms">Landline: India Special - India (Part 1)</title>
     <desc lang="ms">From farm to fashion, cotton and wool grown in Australia, made in India and exported to the world. How a new trade deal opens up new mass markets and partnerships for Australian farmers.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F16A709A-F106-4164-8E34-DFD79461B61A/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260905233300 +0800" stop="20260906000300 +0800" channel="dw.unifi">
-    <title lang="ms">Euromaxx</title>
-    <desc lang="ms">How does Louis Philippson get young people into classical music? Why do thousands of property guardians live in London? Why is Arnd Erbel a "Freibäcker"?</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6A3F3B67-97AB-469D-B2D8-00B6A1C5A2DD/0-16x9.png?width=500"/>
   </programme>
   <programme start="20260906000300 +0800" stop="20260906001800 +0800" channel="dw.unifi">
     <title lang="ms">DW News</title>
@@ -177975,16 +177523,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">Euromaxx</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6A3F3B67-97AB-469D-B2D8-00B6A1C5A2DD/0-16x9.png?width=500"/>
   </programme>
-  <programme start="20260905231500 +0800" stop="20260906000000 +0800" channel="nhkworldjapan.unifi">
-    <title lang="ms">Train Cruise</title>
-    <desc lang="ms">Travel along the Kurobe River on the Toyama Chihou and Kurobe Gorge Railways in Toyama Prefecture - the river provides water for farms, businesses, and households and has carved a deep gorge upstream.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/83E223EF-AE4A-4E3F-A7D9-07A33B4C3A20/0-16x9.png?width=500"/>
-  </programme>
-  <programme start="20260906000000 +0800" stop="20260906000500 +0800" channel="nhkworldjapan.unifi">
-    <title lang="ms">Japanology Plus mini</title>
-    <desc lang="ms">Sweet potatoes are often baked or turned into sweets in Japan, but they can also be used to generate electricity or protect from heat - we introduce the diverse ways in which they are used and sold.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/83E223EF-AE4A-4E3F-A7D9-07A33B4C3A20/0-16x9.png?width=500"/>
-  </programme>
   <programme start="20260906000500 +0800" stop="20260906001500 +0800" channel="nhkworldjapan.unifi">
     <title lang="ms">NHK Newsline</title>
     <desc lang="ms">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
@@ -182710,18 +182248,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">Come ride with us! Bicycle through the scenery of Japan, stay with locals, and discover hidden traditions in a Japan that you didn't know existed.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/83E223EF-AE4A-4E3F-A7D9-07A33B4C3A20/0-16x9.png?width=500"/>
   </programme>
-  <programme start="20260905213000 +0800" stop="20260906000000 +0800" channel="unifisports1.unifi">
-    <title lang="ms">UFC Reloaded - UFC 312: Du Plessis vs Strickland</title>
-    <desc lang="ms">UFC returns down under to Sydney, Austalia, where Middleweight champion Dricus Du Plessis defends his crown against Sean Strickland, the man he took it from, and undefeated TUF 23 winner Tatiana Suarez aims to unseat 2-time champion Zhang Weili for the Women's Strawweight title. Plus more on UFC Reloaded!</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/28EEC6E6-98AD-44E7-8CF3-101111099742/0-16x9.png?width=500"/>
-    <catchup-id>airing-unifisports1-2026-09-05-21:30</catchup-id>
-  </programme>
-  <programme start="20260906000000 +0800" stop="20260906055500 +0800" channel="unifisports1.unifi">
-    <title lang="ms">(L) UFC Fight Night: Hooker vs. Parnasse - Main</title>
-    <desc lang="ms">As UFC touches down at Accor Arena in Paris for the fifth consecutive year on Saturday, September 5, the main event features a fascinating lightweight pairing between Dan “The Hangman” Hooker and promotional newcomer Salahdine Parnasse. An all-action staple in the division for the last decade, New Zealand's Hooker headlines for the fourth time in his UFC career, looking to add to a win total that includes victories over Mateusz Gamrot and Jalin Turner. Hailing from Aubervilliers, France, the 28-yearold Parnasse was a two-division champion under the KSW banner, amassing seven successful title defenses while standing as one of the top talents competing outside of UFC</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/28EEC6E6-98AD-44E7-8CF3-101111099742/0-16x9.png?width=500"/>
-    <catchup-id>airing-unifisports1-2026-09-06-00:00</catchup-id>
-  </programme>
   <programme start="20260906055500 +0800" stop="20260906060000 +0800" channel="unifisports1.unifi">
     <title lang="ms">LALIGA HISTORIC MOMENTS - GERARD PIQUE'S RETIREMENT</title>
     <desc lang="ms">Barcelona club captain and Spanish national team legend Gerard Pique has called time on his career. This is a whirlwind look back at the illustrious career of a man who has won everything the game has to offer.</desc>
@@ -184132,12 +183658,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">A premium hub for live sports and event highlights, curated for local and international fans, featuring top action including UFC.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/28EEC6E6-98AD-44E7-8CF3-101111099742/0-16x9.png?width=500"/>
   </programme>
-  <programme start="20260905233000 +0800" stop="20260906043000 +0800" channel="spotv.unifi">
-    <title lang="ms">(L) 2026 US Open Tennis Championships Day 7 - Day Session 3rd Round (Arthur Ashe)</title>
-    <desc lang="ms">The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the fourth and final Grand Slam of the year.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/75E45C13-621B-44EB-86F1-35C8C3DCB7E1/0-16x9.png?width=500"/>
-    <catchup-id>airing-spotv-2026-09-05-23:30</catchup-id>
-  </programme>
   <programme start="20260906043000 +0800" stop="20260906050000 +0800" channel="spotv.unifi">
     <title lang="ms">2026 US Open Tennis Highlights - Day 6</title>
     <desc lang="ms">The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the final Grand Slam of the year.</desc>
@@ -185212,12 +184732,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/75E45C13-621B-44EB-86F1-35C8C3DCB7E1/0-16x9.png?width=500"/>
     <catchup-id>airing-spotv-2026-09-20-00:00</catchup-id>
   </programme>
-  <programme start="20260905230000 +0800" stop="20260906040000 +0800" channel="spotv2.unifi">
-    <title lang="ms">(L) 2026 US Open Tennis Championships Day 7 - Day Session 3rd Round (Louis Armstrong)</title>
-    <desc lang="ms">The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the fourth and final Grand Slam of the year.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6E16A3C6-3131-4199-B8F2-467F023E14BE/0-16x9.png?width=500"/>
-    <catchup-id>airing-spotv2-2026-09-05-23:00</catchup-id>
-  </programme>
   <programme start="20260906040000 +0800" stop="20260906043000 +0800" channel="spotv2.unifi">
     <title lang="ms">WPBL S2, Mumbai Highlights - Day 11 Tie 1 Pune vs Chennai</title>
     <desc lang="ms">World Pickleball League Season 2 heads to Mumbai, as top international players compete in fast-paced team action, showcasing skill, intensity, and excitement in one of the sport's fast-growing leagues</desc>
@@ -186063,12 +185577,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">The country's only domestic sprint GT championship became a standalone series since 2024, contested with GT3-spec and GT4-spec cars.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6E16A3C6-3131-4199-B8F2-467F023E14BE/0-16x9.png?width=500"/>
     <catchup-id>airing-spotv2-2026-09-20-00:00</catchup-id>
-  </programme>
-  <programme start="20260905231600 +0800" stop="20260906000500 +0800" channel="beinsports.unifi">
-    <title lang="ms">Formula 1 Qualifying Post Show - FORMULA 1 PIRELLI GRAN PREMIO D'ITALIA 2026 (L)</title>
-    <desc lang="ms">Join us for all the reaction and analysis after every qualifying race.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/A0C43E09-6105-4CD5-9F44-390B57BCA1A5/0-16x9.png?width=500"/>
-    <catchup-id>airing-beinsports-2026-09-05-23:16</catchup-id>
   </programme>
   <programme start="20260906000500 +0800" stop="20260906003200 +0800" channel="beinsports.unifi">
     <title lang="ms">Ted's Qualifying Notebook - FORMULA 1 PIRELLI GRAN PREMIO D'ITALIA 2026 (L)</title>
@@ -188080,12 +187588,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/A0C43E09-6105-4CD5-9F44-390B57BCA1A5/0-16x9.png?width=500"/>
     <catchup-id>airing-beinsports-2026-09-19-22:10</catchup-id>
   </programme>
-  <programme start="20260905205000 +0800" stop="20260906001800 +0800" channel="beinsports2.unifi">
-    <title lang="ms">La Vuelta - Stage 14: Jaen - Sierra de la Pandera (L)</title>
-    <desc lang="ms">81st edition of the Vuelta a España and the third and final grand tour of the 2026 men's road cycling season.It is Spain's most epic and open cycling competition.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B6AE264E-3B1A-4E37-B9A2-43D912FC89D7/0-16x9.png?width=500"/>
-    <catchup-id>airing-beinsports2-2026-09-05-20:50</catchup-id>
-  </programme>
   <programme start="20260906001800 +0800" stop="20260906011000 +0800" channel="beinsports2.unifi">
     <title lang="ms">WEC Practice - Lone Star Le Mans, USA (L)</title>
     <desc lang="ms">Prepare for some exciting coverage from the practice sessions of the WEC 2026 season</desc>
@@ -189699,18 +189201,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">beIN SPORTS brings you coverage of the 69th season of Turkey's top-flight football.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B6AE264E-3B1A-4E37-B9A2-43D912FC89D7/0-16x9.png?width=500"/>
     <catchup-id>airing-beinsports2-2026-09-19-23:00</catchup-id>
-  </programme>
-  <programme start="20260905233000 +0800" stop="20260906000000 +0800" channel="beinsports3.unifi">
-    <title lang="ms">UEFA Champions League Magazine Show - MD1 Preview</title>
-    <desc lang="ms">UEFA Champions League Magazine Show - MD1 Preview</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/03E8ED19-B3A5-44F1-9176-4EC1FD68B0A1/0-16x9.png?width=500"/>
-    <catchup-id>airing-beinsports3-2026-09-05-23:30</catchup-id>
-  </programme>
-  <programme start="20260906000000 +0800" stop="20260906001000 +0800" channel="beinsports3.unifi">
-    <title lang="ms">Bundesliga Classic - Bayern vs Bremen - 2019/20</title>
-    <desc lang="ms">Rewind the clock and enjoy some of the classic matches from the Bundesliga.</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/03E8ED19-B3A5-44F1-9176-4EC1FD68B0A1/0-16x9.png?width=500"/>
-    <catchup-id>airing-beinsports3-2026-09-06-00:00</catchup-id>
   </programme>
   <programme start="20260906001000 +0800" stop="20260906002000 +0800" channel="beinsports3.unifi">
     <title lang="ms">Bundesliga Classic - Hertha vs FC Union - 2019/20</title>
@@ -191553,18 +191043,6 @@ Pelakon : Johan As’ari , Dewi Seriestha, Samarinna Tolhip,  Wily Alfred, Tony 
     <desc lang="ms">Rewind the clock and enjoy some of the classic matches from the Bundesliga.</desc>
     <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/03E8ED19-B3A5-44F1-9176-4EC1FD68B0A1/0-16x9.png?width=500"/>
     <catchup-id>airing-beinsports3-2026-09-20-00:00</catchup-id>
-  </programme>
-  <programme start="20260905220000 +0800" stop="20260906000000 +0800" channel="beinsports4.unifi">
-    <title lang="ms">Catch New Football Season 2025/2026 matches soon</title>
-    <desc lang="ms">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/C0FFC072-D51A-4676-B232-F1C06BFA87D1/0-16x9.png?width=500"/>
-    <catchup-id>airing-beinsports4-2026-09-05-22:00</catchup-id>
-  </programme>
-  <programme start="20260906000000 +0800" stop="20260906020000 +0800" channel="beinsports4.unifi">
-    <title lang="ms">Catch New Football Season 2025/2026 matches soon</title>
-    <desc lang="ms">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
-    <icon src="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/C0FFC072-D51A-4676-B232-F1C06BFA87D1/0-16x9.png?width=500"/>
-    <catchup-id>airing-beinsports4-2026-09-06-00:00</catchup-id>
   </programme>
   <programme start="20260906020000 +0800" stop="20260906040000 +0800" channel="beinsports4.unifi">
     <title lang="ms">Catch New Football Season 2025/2026 matches soon</title>
